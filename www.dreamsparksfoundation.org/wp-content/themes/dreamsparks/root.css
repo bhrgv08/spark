@@ -1,0 +1,14 @@
+:root{
+     /* for nav bar */
+    --bs-white: #FFFFFF;
+
+    /* for nav bar */
+    /* --bs-blue-color-1: #45A4DB; */
+    --bs-blue-color-1: #0A041E;  
+
+
+    --bs-blue-color-2: #0362BE;
+
+    
+    --bs-gradient: linear-gradient(#E4324A ,#BB1D67);
+}

@@ -1,0 +1,1892 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 18 Mar 2024 11:33:47 at https://www.helpageindia.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.helpageindia.org/ -O1 "C:\Users\admin\OneDrive - Biztechnosys Infotech Pvt Ltd\Desktop\helpageproject" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+11:35:04	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.helpageindia.org/)
+
+11:35:04	Warning: 	Link https://www.helpageindia.org/page/2/ not scanned (follow robots meta tag)
+
+11:35:14	Error: 	"Bad Request" (400) at link https://www.helpageindia.org/wp-admin/admin-ajax.php?url= (from https://www.helpageindia.org/)
+
+11:35:14	Error: 	"Not Found" (404) at link https://www.helpageindia.org/IPledge4Eldercare.pdf (from https://www.helpageindia.org/)
+
+11:35:14	Error: 	"Not Found" (404) at link https://www.helpageindia.org/POST (from https://www.helpageindia.org/)
+
+11:35:14	Error: 	"Not Found" (404) at link cdn.matomo.cloud/helpageindia.matomo.cloud/matomo.js (from https://www.helpageindia.ohttp://127.0.0.1:5500/www.helpageindia.org/wp-content/themes/dreamsparks/styleb9fc.css?ver=2017
+http://127.0.0.1:5500/www.helpageindia.org/wp-content/themes/dreamsparks/styleb9fc.css?ver=2017
+11:39:36	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/rights-entitlements-programs/empowering-elder-lives-advantage-program/ (from https://www.helpageindia.org/)
+
+11:40:51	Warning: 	Moved Permanently for https://www.helpageindia.org/donate-old/
+
+11:40:51	Warning: 	File has moved from https://www.helpageindia.org/donate-old/ to https://www.helpageindia.org/donate
+
+11:41:52	Error: 	"Not Found" (404) at link https://www.helpageindia.org/when-im-75/ (from https://www.helpageindia.org/)
+
+11:41:52	Error: 	"Bad Request" (400) at link https://www.helpageindia.org/wp-admin/admin-ajax.php (from https://www.helpageindia.org/)
+
+11:42:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/wp-content/themes/dreamsparks/fonts/glyphicons-halflings-regular.eot (from https://www.helpageindia.org/wp-content/themes/dreamsparks/css/bootstrap.min.css)
+
+11:42:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/wp-content/themes/dreamsparks/fonts/glyphicons-halflings-regular.eot? (from https://www.helpageindia.org/wp-content/themes/dreamsparks/css/bootstrap.min.css)
+
+11:42:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/wp-content/themes/dreamsparks/fonts/glyphicons-halflings-regular.woff2 (from https://www.helpageindia.org/wp-content/themes/dreamsparks/css/bootstrap.min.css)
+
+11:42:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/wp-content/themes/dreamsparks/fonts/glyphicons-halflings-regular.woff (from https://www.helpageindia.org/wp-content/themes/dreamsparks/css/bootstrap.min.css)
+
+11:42:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/wp-content/themes/dreamsparks/fonts/glyphicons-halflings-regular.ttf (from https://www.helpageindia.org/wp-content/themes/dreamsparks/css/bootstrap.min.css)
+
+11:42:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/wp-content/themes/dreamsparks/fonts/glyphicons-halflings-regular.svg (from https://www.helpageindia.org/wp-content/themes/dreamsparks/css/bootstrap.min.css)
+
+11:42:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/wp-content/themes/dreamsparks/css/owl.video.play.png (from https://www.helpageindia.org/wp-content/themes/dreamsparks/css/owl.carousel.min.css)
+
+11:42:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/wp-content/themes/dreamsparks/images/checked.png (from https://www.helpageindia.org/wp-content/themes/dreamsparks/style.css?ver=2017)
+
+11:42:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/beta/wp-content/uploads/2020/09/Untitled-4-4.png (from https://www.helpageindia.org/wp-content/themes/dreamsparks/style.css?ver=2017)
+
+11:42:24	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=30
+
+11:42:24	Warning: 	File has moved from https://www.helpageindia.org/?p=30 to https://www.helpageindia.org/blog/
+
+11:42:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/blog/IPledge4Eldercare.pdf (from https://www.helpageindia.org/blog/)
+
+11:42:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/blog/POST (from https://www.helpageindia.org/blog/)
+
+11:42:41	Warning: 	Link https://www.helpageindia.org/blog/page/2/ not scanned (follow robots meta tag)
+
+11:42:42	Warning: 	Link https://www.helpageindia.org/blog/page/3/ not scanned (follow robots meta tag)
+
+11:42:42	Warning: 	Link https://www.helpageindia.org/blog/page/19/ not scanned (follow robots meta tag)
+
+11:45:22	Error: 	"Not Found" (404) at link https://www.helpageindia.org/betheherotheydeserve/images/donate-icon.png (from https://www.helpageindia.org/betheherotheydeserve/)
+
+11:45:22	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.helpageindia.org/ccavenue/ccavResponseHandler.php (from https://www.helpageindia.org/betheherotheydeserve/)
+
+11:45:22	Error: 	"Not Found" (404) at link https://www.helpageindia.org/needy/ (from https://www.helpageindia.org/betheherotheydeserve/)
+
+11:45:39	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3280
+
+11:45:39	Warning: 	File has moved from https://www.helpageindia.org/?p=3280 to https://www.helpageindia.org/covid-19-emergency-response/
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/covid-19-emergency-response/IPledge4Eldercare.pdf (from https://www.helpageindia.org/covid-19-emergency-response/)
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/covid-19-emergency-response/POST (from https://www.helpageindia.org/covid-19-emergency-response/)
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/beta/wp-content/uploads/2020/05/MAP_big.jpg (from https://www.helpageindia.org/covid-19-emergency-response/)
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/assam-flood-relief-appeal/images/donate-icon.png (from https://www.helpageindia.org/assam-flood-relief-appeal/)
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/northindia-flood-relief-appeal/images/donate-icon.png (from https://www.helpageindia.org/northindia-flood-relief-appeal/)
+
+11:45:39	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3742
+
+11:45:39	Warning: 	File has moved from https://www.helpageindia.org/?p=3742 to https://www.helpageindia.org/bihar-flood/
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/bihar-flood/IPledge4Eldercare.pdf (from https://www.helpageindia.org/bihar-flood/)
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/bihar-flood/POST (from https://www.helpageindia.org/bihar-flood/)
+
+11:45:39	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3534
+
+11:45:39	Warning: 	File has moved from https://www.helpageindia.org/?p=3534 to https://www.helpageindia.org/amphan/
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/amphan/IPledge4Eldercare.pdf (from https://www.helpageindia.org/amphan/)
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/amphan/POST (from https://www.helpageindia.org/amphan/)
+
+11:45:39	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2790
+
+11:45:39	Warning: 	File has moved from https://www.helpageindia.org/?p=2790 to https://www.helpageindia.org/muzzafarpur/
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/muzzafarpur/IPledge4Eldercare.pdf (from https://www.helpageindia.org/muzzafarpur/)
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/muzzafarpur/POST (from https://www.helpageindia.org/muzzafarpur/)
+
+11:45:39	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2706
+
+11:45:39	Warning: 	File has moved from https://www.helpageindia.org/?p=2706 to https://www.helpageindia.org/kerala-flood-relief-intervention/
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/kerala-flood-relief-intervention/IPledge4Eldercare.pdf (from https://www.helpageindia.org/kerala-flood-relief-intervention/)
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/kerala-flood-relief-intervention/POST (from https://www.helpageindia.org/kerala-flood-relief-intervention/)
+
+11:45:39	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2244
+
+11:45:39	Warning: 	File has moved from https://www.helpageindia.org/?p=2244 to https://www.helpageindia.org/kerala-flood-relief/
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/kerala-flood-relief/IPledge4Eldercare.pdf (from https://www.helpageindia.org/kerala-flood-relief/)
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/kerala-flood-relief/POST (from https://www.helpageindia.org/kerala-flood-relief/)
+
+11:45:39	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2227
+
+11:45:39	Warning: 	File has moved from https://www.helpageindia.org/?p=2227 to https://www.helpageindia.org/fani-relief-intervention/
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/fani-relief-intervention/IPledge4Eldercare.pdf (from https://www.helpageindia.org/fani-relief-intervention/)
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/fani-relief-intervention/POST (from https://www.helpageindia.org/fani-relief-intervention/)
+
+11:45:39	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1894
+
+11:45:39	Warning: 	File has moved from https://www.helpageindia.org/?p=1894 to https://www.helpageindia.org/the-elderly-of-nepal-need-you-now/
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/the-elderly-of-nepal-need-you-now/IPledge4Eldercare.pdf (from https://www.helpageindia.org/the-elderly-of-nepal-need-you-now/)
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/the-elderly-of-nepal-need-you-now/POST (from https://www.helpageindia.org/the-elderly-of-nepal-need-you-now/)
+
+11:45:39	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1889
+
+11:45:39	Warning: 	File has moved from https://www.helpageindia.org/?p=1889 to https://www.helpageindia.org/jammu-kashmir/
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/jammu-kashmir/IPledge4Eldercare.pdf (from https://www.helpageindia.org/jammu-kashmir/)
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/jammu-kashmir/POST (from https://www.helpageindia.org/jammu-kashmir/)
+
+11:45:39	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2
+
+11:45:39	Warning: 	File has moved from https://www.helpageindia.org/?p=2 to https://www.helpageindia.org/aboutus/
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/)
+
+11:45:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/POST (from https://www.helpageindia.org/aboutus/)
+
+11:45:42	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=16
+
+11:45:42	Warning: 	File has moved from https://www.helpageindia.org/?p=16 to https://www.helpageindia.org/aboutus/financials/
+
+11:45:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/financials/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/financials/)
+
+11:45:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/financials/POST (from https://www.helpageindia.org/aboutus/financials/)
+
+11:45:42	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2001
+
+11:45:42	Warning: 	File has moved from https://www.helpageindia.org/?p=2001 to https://www.helpageindia.org/aboutus/governing-body/
+
+11:45:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/governing-body/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/governing-body/)
+
+11:45:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/governing-body/POST (from https://www.helpageindia.org/aboutus/governing-body/)
+
+11:45:42	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=26
+
+11:45:42	Warning: 	File has moved from https://www.helpageindia.org/?p=26 to https://www.helpageindia.org/aboutus/donors/
+
+11:45:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/donors/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/donors/)
+
+11:45:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/donors/POST (from https://www.helpageindia.org/aboutus/donors/)
+
+11:45:42	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=18
+
+11:45:42	Warning: 	File has moved from https://www.helpageindia.org/?p=18 to https://www.helpageindia.org/aboutus/awards-recognition/
+
+11:45:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/awards-recognition/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/awards-recognition/)
+
+11:45:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/awards-recognition/POST (from https://www.helpageindia.org/aboutus/awards-recognition/)
+
+11:45:42	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=28
+
+11:45:42	Warning: 	File has moved from https://www.helpageindia.org/?p=28 to https://www.helpageindia.org/aboutus/publications/
+
+11:45:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/publications/)
+
+11:45:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/POST (from https://www.helpageindia.org/aboutus/publications/)
+
+11:46:54	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=62
+
+11:46:54	Warning: 	File has moved from https://www.helpageindia.org/?p=62 to https://www.helpageindia.org/aboutus/research/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/research/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/research/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/research/POST (from https://www.helpageindia.org/aboutus/research/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=22
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=22 to https://www.helpageindia.org/aboutus/tenders/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/tenders/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/tenders/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/tenders/POST (from https://www.helpageindia.org/aboutus/tenders/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=38
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=38 to https://www.helpageindia.org/our-work/welfare-development/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-work/welfare-development/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/POST (from https://www.helpageindia.org/our-work/welfare-development/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=40
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=40 to https://www.helpageindia.org/our-work/welfare-development/mobile-healthcare/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/mobile-healthcare/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-work/welfare-development/mobile-healthcare/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/mobile-healthcare/POST (from https://www.helpageindia.org/our-work/welfare-development/mobile-healthcare/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=44
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=44 to https://www.helpageindia.org/our-work/welfare-development/cataract-surgeries/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/cataract-surgeries/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-work/welfare-development/cataract-surgeries/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/cataract-surgeries/POST (from https://www.helpageindia.org/our-work/welfare-development/cataract-surgeries/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=48
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=48 to https://www.helpageindia.org/our-work/welfare-development/physiocare/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/physiocare/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-work/welfare-development/physiocare/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/physiocare/POST (from https://www.helpageindia.org/our-work/welfare-development/physiocare/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=52
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=52 to https://www.helpageindia.org/our-work/welfare-development/cancer-care/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/cancer-care/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-work/welfare-development/cancer-care/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/cancer-care/POST (from https://www.helpageindia.org/our-work/welfare-development/cancer-care/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=60
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=60 to https://www.helpageindia.org/our-work/welfare-development/disaster-management/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/disaster-management/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-work/welfare-development/disaster-management/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/disaster-management/POST (from https://www.helpageindia.org/our-work/welfare-development/disaster-management/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=46
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=46 to https://www.helpageindia.org/our-work/welfare-development/support-a-gran/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/support-a-gran/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-work/welfare-development/support-a-gran/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/support-a-gran/POST (from https://www.helpageindia.org/our-work/welfare-development/support-a-gran/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=54
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=54 to https://www.helpageindia.org/our-work/welfare-development/old-age-homes/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/old-age-homes/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-work/welfare-development/old-age-homes/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/old-age-homes/POST (from https://www.helpageindia.org/our-work/welfare-development/old-age-homes/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=50
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=50 to https://www.helpageindia.org/our-work/welfare-development/livelihood-support/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/livelihood-support/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-work/welfare-development/livelihood-support/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/livelihood-support/POST (from https://www.helpageindia.org/our-work/welfare-development/livelihood-support/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=58
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=58 to https://www.helpageindia.org/our-work/welfare-development/elder-helplines/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/elder-helplines/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-work/welfare-development/elder-helplines/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/welfare-development/elder-helplines/POST (from https://www.helpageindia.org/our-work/welfare-development/elder-helplines/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=64
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=64 to https://www.helpageindia.org/our-work/rights-entitlements-programs/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/rights-entitlements-programs/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-work/rights-entitlements-programs/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/rights-entitlements-programs/POST (from https://www.helpageindia.org/our-work/rights-entitlements-programs/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=70
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=70 to https://www.helpageindia.org/our-work/rights-entitlements-programs/impacting-elder-policies-and-laws/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/rights-entitlements-programs/impacting-elder-policies-and-laws/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-work/rights-entitlements-programs/impacting-elder-policies-and-laws/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/rights-entitlements-programs/impacting-elder-policies-and-laws/POST (from https://www.helpageindia.org/our-work/rights-entitlements-programs/impacting-elder-policies-and-laws/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=74
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=74 to https://www.helpageindia.org/our-work/rights-entitlements-programs/working-with-senior-citizens-associations/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/rights-entitlements-programs/working-with-senior-citizens-associations/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-work/rights-entitlements-programs/working-with-senior-citizens-associations/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/rights-entitlements-programs/working-with-senior-citizens-associations/POST (from https://www.helpageindia.org/our-work/rights-entitlements-programs/working-with-senior-citizens-associations/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=78
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=78 to https://www.helpageindia.org/our-work/rights-entitlements-programs/save-student-action-for-value-education/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/rights-entitlements-programs/save-student-action-for-value-education/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-work/rights-entitlements-programs/save-student-action-for-value-education/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/rights-entitlements-programs/save-student-action-for-value-education/POST (from https://www.helpageindia.org/our-work/rights-entitlements-programs/save-student-action-for-value-education/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1647
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=1647 to https://www.helpageindia.org/success-stories/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/success-stories/IPledge4Eldercare.pdf (from https://www.helpageindia.org/success-stories/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/success-stories/POST (from https://www.helpageindia.org/success-stories/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/weaad2023/images/donate-icon.png (from https://www.helpageindia.org/weaad2023/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/weaad2023/mainbhihoon/images/donate-icon.png (from https://www.helpageindia.org/weaad2023/mainbhihoon/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/weaad/images/donate-icon.png (from https://www.helpageindia.org/weaad/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=5100
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=5100 to https://www.helpageindia.org/bridgethegap/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/bridgethegap/IPledge4Eldercare.pdf (from https://www.helpageindia.org/bridgethegap/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/bridgethegap/POST (from https://www.helpageindia.org/bridgethegap/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/get_bridge_counter.php (from https://www.helpageindia.org/bridgethegap/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/livelihood/
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/livelihood/ to https://www.helpageindia.org/weaad/livelihood/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/weaad/livelihood/images/donate-icon.png (from https://www.helpageindia.org/weaad/livelihood/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/weaad/infographic-incomeandemployment/images/donate-icon.png (from https://www.helpageindia.org/weaad/infographic-incomeandemployment/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/weaad/infographic-healthcare/images/donate-icon.png (from https://www.helpageindia.org/weaad/infographic-healthcare/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/weaad/infographic-elder-abuse/images/donate-icon.png (from https://www.helpageindia.org/weaad/infographic-elder-abuse/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/weaad/infographic-social-inclusion/images/donate-icon.png (from https://www.helpageindia.org/weaad/infographic-social-inclusion/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/weaad/infographic-digital-inclusion/images/donate-icon.png (from https://www.helpageindia.org/weaad/infographic-digital-inclusion/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3877
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=3877 to https://www.helpageindia.org/pledge/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/pledge/IPledge4Eldercare.pdf (from https://www.helpageindia.org/pledge/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/pledge/POST (from https://www.helpageindia.org/pledge/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/get_pledge_counter.php (from https://www.helpageindia.org/pledge/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2685
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=2685 to https://www.helpageindia.org/project-silver-cyclers/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/project-silver-cyclers/IPledge4Eldercare.pdf (from https://www.helpageindia.org/project-silver-cyclers/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/project-silver-cyclers/POST (from https://www.helpageindia.org/project-silver-cyclers/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=99
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=99 to https://www.helpageindia.org/contact-us/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/contact-us/IPledge4Eldercare.pdf (from https://www.helpageindia.org/contact-us/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/contact-us/POST (from https://www.helpageindia.org/contact-us/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=24
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=24 to https://www.helpageindia.org/careers/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/careers/IPledge4Eldercare.pdf (from https://www.helpageindia.org/careers/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/careers/POST (from https://www.helpageindia.org/careers/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/gharkaujala/images/donate-icon.png (from https://www.helpageindia.org/gharkaujala/)
+
+11:46:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=176
+
+11:46:55	Warning: 	File has moved from https://www.helpageindia.org/?p=176 to https://www.helpageindia.org/helpage-greeting-cards/
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/helpage-greeting-cards/IPledge4Eldercare.pdf (from https://www.helpageindia.org/helpage-greeting-cards/)
+
+11:46:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/helpage-greeting-cards/POST (from https://www.helpageindia.org/helpage-greeting-cards/)
+
+11:46:55	Warning: 	Link https://www.helpageindia.org/helpage-greeting-cards/2/ not scanned (follow robots meta tag)
+
+11:46:56	Warning: 	Link https://www.helpageindia.org/helpage-greeting-cards/3/ not scanned (follow robots meta tag)
+
+11:46:57	Warning: 	Link https://www.helpageindia.org/helpage-greeting-cards/4/ not scanned (follow robots meta tag)
+
+11:47:04	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=6152
+
+11:47:04	Warning: 	File has moved from https://www.helpageindia.org/?p=6152 to https://www.helpageindia.org/our-work/rights-entitlements-programs/digital_literacy_safety/
+
+11:47:04	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/rights-entitlements-programs/digital_literacy_safety/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-work/rights-entitlements-programs/digital_literacy_safety/)
+
+11:47:04	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/rights-entitlements-programs/digital_literacy_safety/POST (from https://www.helpageindia.org/our-work/rights-entitlements-programs/digital_literacy_safety/)
+
+11:47:04	Error: 	"Not Found" (404) at link https://www.helpageindia.org/donate/images/donate-icon.png (from https://www.helpageindia.org/donate/)
+
+11:47:04	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=170
+
+11:47:04	Warning: 	File has moved from https://www.helpageindia.org/?p=170 to https://www.helpageindia.org/our-videos/
+
+11:47:04	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-videos/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-videos/)
+
+11:47:04	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-videos/POST (from https://www.helpageindia.org/our-videos/)
+
+11:47:04	Error: 	"Not Found" (404) at link https://img.youtube.com/vi/th6-G7SKv3E/0.jpg (from https://www.helpageindia.org/our-videos/)
+
+11:47:04	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=82
+
+11:47:04	Warning: 	File has moved from https://www.helpageindia.org/?p=82 to https://www.helpageindia.org/privacy-policy/
+
+11:47:04	Error: 	"Not Found" (404) at link https://www.helpageindia.org/privacy-policy/IPledge4Eldercare.pdf (from https://www.helpageindia.org/privacy-policy/)
+
+11:47:04	Error: 	"Not Found" (404) at link https://www.helpageindia.org/privacy-policy/POST (from https://www.helpageindia.org/privacy-policy/)
+
+11:47:04	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=84
+
+11:47:04	Warning: 	File has moved from https://www.helpageindia.org/?p=84 to https://www.helpageindia.org/disclaimer/
+
+11:47:04	Error: 	"Not Found" (404) at link https://www.helpageindia.org/disclaimer/IPledge4Eldercare.pdf (from https://www.helpageindia.org/disclaimer/)
+
+11:47:04	Error: 	"Not Found" (404) at link https://www.helpageindia.org/disclaimer/POST (from https://www.helpageindia.org/disclaimer/)
+
+11:47:04	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=86
+
+11:47:04	Warning: 	File has moved from https://www.helpageindia.org/?p=86 to https://www.helpageindia.org/sitemap/
+
+11:47:04	Error: 	"Not Found" (404) at link https://www.helpageindia.org/sitemap/IPledge4Eldercare.pdf (from https://www.helpageindia.org/sitemap/)
+
+11:47:04	Error: 	"Not Found" (404) at link https://www.helpageindia.org/sitemap/POST (from https://www.helpageindia.org/sitemap/)
+
+11:47:04	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=88
+
+11:47:04	Warning: 	File has moved from https://www.helpageindia.org/?p=88 to https://www.helpageindia.org/highlight-archives/
+
+11:47:04	Error: 	"Not Found" (404) at link https://www.helpageindia.org/highlight-archives/IPledge4Eldercare.pdf (from https://www.helpageindia.org/highlight-archives/)
+
+11:47:04	Error: 	"Not Found" (404) at link https://www.helpageindia.org/highlight-archives/POST (from https://www.helpageindia.org/highlight-archives/)
+
+11:47:13	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=90
+
+11:47:13	Warning: 	File has moved from https://www.helpageindia.org/?p=90 to https://www.helpageindia.org/donation-refund-policy/
+
+11:47:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/donation-refund-policy/IPledge4Eldercare.pdf (from https://www.helpageindia.org/donation-refund-policy/)
+
+11:47:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/donation-refund-policy/POST (from https://www.helpageindia.org/donation-refund-policy/)
+
+11:47:13	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=875
+
+11:47:13	Warning: 	File has moved from https://www.helpageindia.org/?p=875 to https://www.helpageindia.org/donation-pay/
+
+11:47:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/donation-pay/IPledge4Eldercare.pdf (from https://www.helpageindia.org/donation-pay/)
+
+11:47:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/donation-pay/POST (from https://www.helpageindia.org/donation-pay/)
+
+11:47:13	Error: 	"Unknown error" (522) at link https://cpanel.nativeads.com/js/nativeads-0-c7afe995a505c96061477eec916ae3c0251e8b21.js (from https://www.helpageindia.org/donation-pay/)
+
+11:47:13	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3443
+
+11:47:13	Warning: 	File has moved from https://www.helpageindia.org/?p=3443 to https://www.helpageindia.org/ndtv/
+
+11:47:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/ndtv/IPledge4Eldercare.pdf (from https://www.helpageindia.org/ndtv/)
+
+11:47:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/ndtv/POST (from https://www.helpageindia.org/ndtv/)
+
+11:47:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/beta/wp-content/uploads/2020/05/ndtvlogo.png (from https://www.helpageindia.org/ndtv/)
+
+11:47:19	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3580
+
+11:47:19	Warning: 	File has moved from https://www.helpageindia.org/?p=3580 to https://www.helpageindia.org/book/
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/book/IPledge4Eldercare.pdf (from https://www.helpageindia.org/book/)
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/book/POST (from https://www.helpageindia.org/book/)
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/generate_bridge_certificate.php/ (from https://www.helpageindia.org/generate_bridge_certificate.php/?name=)
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/generate_bridge_certificate.php/page/2/ (from https://www.helpageindia.org/generate_bridge_certificate.php/?name=)
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/generate_bridge_certificate.php/IPledge4Eldercare.pdf (from https://www.helpageindia.org/generate_bridge_certificate.php/?name=)
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/generate_bridge_certificate.php/POST (from https://www.helpageindia.org/generate_bridge_certificate.php/?name=)
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/when_im_75_certificate.php/ (from https://www.helpageindia.org/when_im_75_certificate.php/?name=)
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/when_im_75_certificate.php/page/2/ (from https://www.helpageindia.org/when_im_75_certificate.php/?name=)
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/when_im_75_certificate.php/IPledge4Eldercare.pdf (from https://www.helpageindia.org/when_im_75_certificate.php/?name=)
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/when_im_75_certificate.php/POST (from https://www.helpageindia.org/when_im_75_certificate.php/?name=)
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/generate_certificate.php/ (from https://www.helpageindia.org/generate_certificate.php/?name=)
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/generate_certificate.php/page/2/ (from https://www.helpageindia.org/generate_certificate.php/?name=)
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/generate_certificate.php/IPledge4Eldercare.pdf (from https://www.helpageindia.org/generate_certificate.php/?name=)
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/generate_certificate.php/POST (from https://www.helpageindia.org/generate_certificate.php/?name=)
+
+11:47:19	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=6189
+
+11:47:19	Warning: 	File has moved from https://www.helpageindia.org/?p=6189 to https://www.helpageindia.org/loneliness-in-older-adults-and-its-impact-on-mental-health/
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/loneliness-in-older-adults-and-its-impact-on-mental-health/IPledge4Eldercare.pdf (from https://www.helpageindia.org/loneliness-in-older-adults-and-its-impact-on-mental-health/)
+
+11:47:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/loneliness-in-older-adults-and-its-impact-on-mental-health/POST (from https://www.helpageindia.org/loneliness-in-older-adults-and-its-impact-on-mental-health/)
+
+11:47:19	Error: 	"Method Not Allowed" (405) at link https://www.helpageindia.org/xmlrpc.php (from https://www.helpageindia.org/loneliness-in-older-adults-and-its-impact-on-mental-health/)
+
+11:47:19	Warning: 	Link https://www.helpageindia.org/category/cause-of-serving/page/2/ not scanned (follow robots meta tag)
+
+11:47:20	Error: 	"Not Found" (404) at link https://www.helpageindia.org/category/cause-of-serving/IPledge4Eldercare.pdf (from https://www.helpageindia.org/category/cause-of-serving/)
+
+11:47:20	Error: 	"Not Found" (404) at link https://www.helpageindia.org/category/cause-of-serving/POST (from https://www.helpageindia.org/category/cause-of-serving/)
+
+11:47:22	Warning: 	Link https://www.helpageindia.org/category/cause-of-serving/page/3/ not scanned (follow robots meta tag)
+
+11:47:23	Warning: 	Link https://www.helpageindia.org/category/cause-of-serving/page/9/ not scanned (follow robots meta tag)
+
+11:47:24	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=6181
+
+11:47:24	Warning: 	File has moved from https://www.helpageindia.org/?p=6181 to https://www.helpageindia.org/understanding-preventing-responding-to-elder-abuse/
+
+11:47:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/understanding-preventing-responding-to-elder-abuse/IPledge4Eldercare.pdf (from https://www.helpageindia.org/understanding-preventing-responding-to-elder-abuse/)
+
+11:47:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/understanding-preventing-responding-to-elder-abuse/POST (from https://www.helpageindia.org/understanding-preventing-responding-to-elder-abuse/)
+
+11:47:24	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=6079
+
+11:47:24	Warning: 	File has moved from https://www.helpageindia.org/?p=6079 to https://www.helpageindia.org/addressing-the-intersection-of-age-and-disability-policy-challenges-in-india/
+
+11:47:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/addressing-the-intersection-of-age-and-disability-policy-challenges-in-india/IPledge4Eldercare.pdf (from https://www.helpageindia.org/addressing-the-intersection-of-age-and-disability-policy-challenges-in-india/)
+
+11:47:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/addressing-the-intersection-of-age-and-disability-policy-challenges-in-india/POST (from https://www.helpageindia.org/addressing-the-intersection-of-age-and-disability-policy-challenges-in-india/)
+
+11:47:24	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=6062
+
+11:47:24	Warning: 	File has moved from https://www.helpageindia.org/?p=6062 to https://www.helpageindia.org/a-call-to-address-the-neglect-of-the-fastest-growing-demographic-category/
+
+11:47:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/a-call-to-address-the-neglect-of-the-fastest-growing-demographic-category/IPledge4Eldercare.pdf (from https://www.helpageindia.org/a-call-to-address-the-neglect-of-the-fastest-growing-demographic-category/)
+
+11:47:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/a-call-to-address-the-neglect-of-the-fastest-growing-demographic-category/POST (from https://www.helpageindia.org/a-call-to-address-the-neglect-of-the-fastest-growing-demographic-category/)
+
+11:47:27	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=5840
+
+11:47:27	Warning: 	File has moved from https://www.helpageindia.org/?p=5840 to https://www.helpageindia.org/women-ageing-and-abuse/
+
+11:47:27	Error: 	"Not Found" (404) at link https://www.helpageindia.org/women-ageing-and-abuse/IPledge4Eldercare.pdf (from https://www.helpageindia.org/women-ageing-and-abuse/)
+
+11:47:27	Error: 	"Not Found" (404) at link https://www.helpageindia.org/women-ageing-and-abuse/POST (from https://www.helpageindia.org/women-ageing-and-abuse/)
+
+11:47:28	Warning: 	Link https://www.helpageindia.org/category/financials/page/2/ not scanned (follow robots meta tag)
+
+11:47:28	Error: 	"Not Found" (404) at link https://www.helpageindia.org/category/financials/IPledge4Eldercare.pdf (from https://www.helpageindia.org/category/financials/)
+
+11:47:28	Error: 	"Not Found" (404) at link https://www.helpageindia.org/category/financials/POST (from https://www.helpageindia.org/category/financials/)
+
+11:47:56	Error: 	"Not Found" (404) at link https://www.helpageindia.org/category/leadership/IPledge4Eldercare.pdf (from https://www.helpageindia.org/category/leadership/)
+
+11:47:56	Error: 	"Not Found" (404) at link https://www.helpageindia.org/category/leadership/POST (from https://www.helpageindia.org/category/leadership/)
+
+11:48:06	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 2614): https://www.helpageindia.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.helpageindia.org%2Ftips-for-helping-elderly-parents-age-happily-in-your-home%2F
+
+11:48:10	Warning: 	Link https://www.helpageindia.org/category/media-centre/page/2/ not scanned (follow robots meta tag)
+
+11:48:11	Error: 	"Not Found" (404) at link https://www.helpageindia.org/category/media-centre/IPledge4Eldercare.pdf (from https://www.helpageindia.org/category/media-centre/)
+
+11:48:11	Error: 	"Not Found" (404) at link https://www.helpageindia.org/category/media-centre/POST (from https://www.helpageindia.org/category/media-centre/)
+
+11:48:38	Error: 	"Not Found" (404) at link https://www.helpageindia.org/category/our-supporters/IPledge4Eldercare.pdf (from https://www.helpageindia.org/category/our-supporters/)
+
+11:48:38	Error: 	"Not Found" (404) at link https://www.helpageindia.org/category/our-supporters/POST (from https://www.helpageindia.org/category/our-supporters/)
+
+11:48:52	Error: 	"Not Found" (404) at link https://www.helpageindia.org/category/sponsor/IPledge4Eldercare.pdf (from https://www.helpageindia.org/category/sponsor/)
+
+11:48:52	Error: 	"Not Found" (404) at link https://www.helpageindia.org/category/sponsor/POST (from https://www.helpageindia.org/category/sponsor/)
+
+11:49:06	Warning: 	Link https://www.helpageindia.org/category/uncategorized/page/2/ not scanned (follow robots meta tag)
+
+11:49:07	Error: 	"Not Found" (404) at link https://www.helpageindia.org/category/uncategorized/IPledge4Eldercare.pdf (from https://www.helpageindia.org/category/uncategorized/)
+
+11:49:07	Error: 	"Not Found" (404) at link https://www.helpageindia.org/category/uncategorized/POST (from https://www.helpageindia.org/category/uncategorized/)
+
+11:49:24	Warning: 	Link https://www.helpageindia.org/category/uncategorized/page/3/ not scanned (follow robots meta tag)
+
+11:49:26	Warning: 	Link https://www.helpageindia.org/category/uncategorized/page/4/ not scanned (follow robots meta tag)
+
+11:49:28	Warning: 	Link https://www.helpageindia.org/category/uncategorized/page/5/ not scanned (follow robots meta tag)
+
+11:49:29	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2024/01/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2024/01/)
+
+11:49:29	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2024/01/POST (from https://www.helpageindia.org/2024/01/)
+
+11:49:31	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2023/11/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2023/11/)
+
+11:49:31	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2023/11/POST (from https://www.helpageindia.org/2023/11/)
+
+11:49:33	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2023/06/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2023/06/)
+
+11:49:33	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2023/06/POST (from https://www.helpageindia.org/2023/06/)
+
+11:49:33	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2023/05/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2023/05/)
+
+11:49:33	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2023/05/POST (from https://www.helpageindia.org/2023/05/)
+
+11:49:35	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2023/03/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2023/03/)
+
+11:49:35	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2023/03/POST (from https://www.helpageindia.org/2023/03/)
+
+11:49:35	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2022/10/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2022/10/)
+
+11:49:35	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2022/10/POST (from https://www.helpageindia.org/2022/10/)
+
+11:49:37	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2022/05/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2022/05/)
+
+11:49:37	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2022/05/POST (from https://www.helpageindia.org/2022/05/)
+
+11:49:37	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2022/01/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2022/01/)
+
+11:49:37	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2022/01/POST (from https://www.helpageindia.org/2022/01/)
+
+11:49:37	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2021/11/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2021/11/)
+
+11:49:37	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2021/11/POST (from https://www.helpageindia.org/2021/11/)
+
+11:49:40	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2021/07/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2021/07/)
+
+11:49:40	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2021/07/POST (from https://www.helpageindia.org/2021/07/)
+
+11:49:47	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2021/02/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2021/02/)
+
+11:49:47	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2021/02/POST (from https://www.helpageindia.org/2021/02/)
+
+11:49:52	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/12/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2020/12/)
+
+11:49:52	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/12/POST (from https://www.helpageindia.org/2020/12/)
+
+11:50:00	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/10/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2020/10/)
+
+11:50:00	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/10/POST (from https://www.helpageindia.org/2020/10/)
+
+11:50:07	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/09/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2020/09/)
+
+11:50:07	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/09/POST (from https://www.helpageindia.org/2020/09/)
+
+11:50:17	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/08/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2020/08/)
+
+11:50:17	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/08/POST (from https://www.helpageindia.org/2020/08/)
+
+11:50:26	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/07/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2020/07/)
+
+11:50:26	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/07/POST (from https://www.helpageindia.org/2020/07/)
+
+11:50:35	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/06/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2020/06/)
+
+11:50:35	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/06/POST (from https://www.helpageindia.org/2020/06/)
+
+11:50:37	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/05/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2020/05/)
+
+11:50:37	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/05/POST (from https://www.helpageindia.org/2020/05/)
+
+11:50:47	Warning: 	Link https://www.helpageindia.org/2020/04/page/2/ not scanned (follow robots meta tag)
+
+11:50:47	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/04/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2020/04/)
+
+11:50:47	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/04/POST (from https://www.helpageindia.org/2020/04/)
+
+11:51:01	Warning: 	Link https://www.helpageindia.org/2020/03/page/2/ not scanned (follow robots meta tag)
+
+11:51:02	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/03/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2020/03/)
+
+11:51:02	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/03/POST (from https://www.helpageindia.org/2020/03/)
+
+11:51:15	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/02/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2020/02/)
+
+11:51:15	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/02/POST (from https://www.helpageindia.org/2020/02/)
+
+11:51:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/01/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2020/01/)
+
+11:51:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/01/POST (from https://www.helpageindia.org/2020/01/)
+
+11:51:31	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/12/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2019/12/)
+
+11:51:31	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/12/POST (from https://www.helpageindia.org/2019/12/)
+
+11:51:36	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/10/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2019/10/)
+
+11:51:36	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/10/POST (from https://www.helpageindia.org/2019/10/)
+
+11:51:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/09/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2019/09/)
+
+11:51:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/09/POST (from https://www.helpageindia.org/2019/09/)
+
+11:51:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.helpageindia.org/author/mathew-cherian/ (from https://www.helpageindia.org/2019/09/)
+
+11:51:48	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/08/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2019/08/)
+
+11:51:48	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/08/POST (from https://www.helpageindia.org/2019/08/)
+
+11:52:05	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/07/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2019/07/)
+
+11:52:05	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/07/POST (from https://www.helpageindia.org/2019/07/)
+
+11:52:05	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/06/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2019/06/)
+
+11:52:05	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/06/POST (from https://www.helpageindia.org/2019/06/)
+
+11:52:10	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/05/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2019/05/)
+
+11:52:10	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/05/POST (from https://www.helpageindia.org/2019/05/)
+
+11:52:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/04/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2019/04/)
+
+11:52:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/04/POST (from https://www.helpageindia.org/2019/04/)
+
+11:52:22	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/03/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2019/03/)
+
+11:52:22	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/03/POST (from https://www.helpageindia.org/2019/03/)
+
+11:52:31	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/02/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2019/02/)
+
+11:52:31	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/02/POST (from https://www.helpageindia.org/2019/02/)
+
+11:52:44	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/01/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2019/01/)
+
+11:52:44	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/01/POST (from https://www.helpageindia.org/2019/01/)
+
+11:52:47	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2018/12/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2018/12/)
+
+11:52:47	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2018/12/POST (from https://www.helpageindia.org/2018/12/)
+
+11:52:51	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2018/08/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2018/08/)
+
+11:52:51	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2018/08/POST (from https://www.helpageindia.org/2018/08/)
+
+11:52:54	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2018/07/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2018/07/)
+
+11:52:54	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2018/07/POST (from https://www.helpageindia.org/2018/07/)
+
+11:52:54	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2018/06/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2018/06/)
+
+11:52:54	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2018/06/POST (from https://www.helpageindia.org/2018/06/)
+
+11:52:59	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2018/04/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2018/04/)
+
+11:52:59	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2018/04/POST (from https://www.helpageindia.org/2018/04/)
+
+11:52:59	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2018/02/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2018/02/)
+
+11:52:59	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2018/02/POST (from https://www.helpageindia.org/2018/02/)
+
+11:52:59	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2017/12/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2017/12/)
+
+11:52:59	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2017/12/POST (from https://www.helpageindia.org/2017/12/)
+
+11:53:01	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2017/11/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2017/11/)
+
+11:53:01	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2017/11/POST (from https://www.helpageindia.org/2017/11/)
+
+11:53:03	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2017/09/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2017/09/)
+
+11:53:03	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2017/09/POST (from https://www.helpageindia.org/2017/09/)
+
+11:53:03	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2017/08/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2017/08/)
+
+11:53:03	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2017/08/POST (from https://www.helpageindia.org/2017/08/)
+
+11:53:07	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2017/07/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2017/07/)
+
+11:53:07	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2017/07/POST (from https://www.helpageindia.org/2017/07/)
+
+11:53:09	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2017/06/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2017/06/)
+
+11:53:09	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2017/06/POST (from https://www.helpageindia.org/2017/06/)
+
+11:53:09	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2016/12/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2016/12/)
+
+11:53:10	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2016/12/POST (from https://www.helpageindia.org/2016/12/)
+
+11:53:12	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2016/07/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2016/07/)
+
+11:53:12	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2016/07/POST (from https://www.helpageindia.org/2016/07/)
+
+11:53:12	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2016/05/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2016/05/)
+
+11:53:12	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2016/05/POST (from https://www.helpageindia.org/2016/05/)
+
+11:53:12	Error: 	"Not Found" (404) at link https://www.helpageindia.org/wp-content/themes/dreamsparks/assets/needy/css/images/footer-bg.jpg (from https://www.helpageindia.org/wp-content/themes/dreamsparks/assets/needy/css/style.css)
+
+11:53:12	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.helpageindia.org/ccavenue/ccavResponseHandler.php (from https://www.helpageindia.org/betheherotheydeserve/)
+
+11:53:12	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1125
+
+11:53:12	Warning: 	File has moved from https://www.helpageindia.org/?p=1125 to https://www.helpageindia.org/doresponse_payu/
+
+11:53:12	Error: 	"Not Found" (404) at link https://www.helpageindia.org/doresponse_payu/IPledge4Eldercare.pdf (from https://www.helpageindia.org/doresponse_payu/)
+
+11:53:12	Error: 	"Not Found" (404) at link https://www.helpageindia.org/doresponse_payu/POST (from https://www.helpageindia.org/doresponse_payu/)
+
+11:53:12	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1209
+
+11:53:12	Warning: 	File has moved from https://www.helpageindia.org/?p=1209 to https://www.helpageindia.org/member-account/
+
+11:53:12	Error: 	"Not Found" (404) at link https://www.helpageindia.org/member-account/IPledge4Eldercare.pdf (from https://www.helpageindia.org/member-account/)
+
+11:53:12	Error: 	"Not Found" (404) at link https://www.helpageindia.org/member-account/POST (from https://www.helpageindia.org/member-account/)
+
+11:53:13	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=879
+
+11:53:13	Warning: 	File has moved from https://www.helpageindia.org/?p=879 to https://www.helpageindia.org/registration/
+
+11:53:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/registration/IPledge4Eldercare.pdf (from https://www.helpageindia.org/registration/)
+
+11:53:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/registration/POST (from https://www.helpageindia.org/registration/)
+
+11:53:16	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=4752
+
+11:53:16	Warning: 	File has moved from https://www.helpageindia.org/?p=4752 to https://www.helpageindia.org/foreign-donors-thank-you/
+
+11:53:16	Error: 	"Not Found" (404) at link https://www.helpageindia.org/foreign-donors-thank-you/IPledge4Eldercare.pdf (from https://www.helpageindia.org/foreign-donors-thank-you/)
+
+11:53:16	Error: 	"Not Found" (404) at link https://www.helpageindia.org/foreign-donors-thank-you/POST (from https://www.helpageindia.org/foreign-donors-thank-you/)
+
+11:53:16	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=6056
+
+11:53:16	Warning: 	File has moved from https://www.helpageindia.org/?p=6056 to https://www.helpageindia.org/diwali-2023-thankyou/
+
+11:53:16	Error: 	"Not Found" (404) at link https://www.helpageindia.org/diwali-2023-thankyou/IPledge4Eldercare.pdf (from https://www.helpageindia.org/diwali-2023-thankyou/)
+
+11:53:16	Error: 	"Not Found" (404) at link https://www.helpageindia.org/diwali-2023-thankyou/POST (from https://www.helpageindia.org/diwali-2023-thankyou/)
+
+11:53:16	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=32
+
+11:53:16	Warning: 	File has moved from https://www.helpageindia.org/?p=32 to https://www.helpageindia.org/to-volunteer/
+
+11:53:16	Error: 	"Not Found" (404) at link https://www.helpageindia.org/to-volunteer/IPledge4Eldercare.pdf (from https://www.helpageindia.org/to-volunteer/)
+
+11:53:16	Error: 	"Not Found" (404) at link https://www.helpageindia.org/to-volunteer/POST (from https://www.helpageindia.org/to-volunteer/)
+
+11:53:19	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1576
+
+11:53:19	Warning: 	File has moved from https://www.helpageindia.org/?p=1576 to https://www.helpageindia.org/aboutus/publications/senior-citizens-guide/
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/senior-citizens-guide/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/publications/senior-citizens-guide/)
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/senior-citizens-guide/POST (from https://www.helpageindia.org/aboutus/publications/senior-citizens-guide/)
+
+11:53:19	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1589
+
+11:53:19	Warning: 	File has moved from https://www.helpageindia.org/?p=1589 to https://www.helpageindia.org/aboutus/publications/organizational-brochure/
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/organizational-brochure/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/publications/organizational-brochure/)
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/organizational-brochure/POST (from https://www.helpageindia.org/aboutus/publications/organizational-brochure/)
+
+11:53:19	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1591
+
+11:53:19	Warning: 	File has moved from https://www.helpageindia.org/?p=1591 to https://www.helpageindia.org/aboutus/publications/annual-reports/
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/annual-reports/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/publications/annual-reports/)
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/annual-reports/POST (from https://www.helpageindia.org/aboutus/publications/annual-reports/)
+
+11:53:19	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1593
+
+11:53:19	Warning: 	File has moved from https://www.helpageindia.org/?p=1593 to https://www.helpageindia.org/aboutus/publications/audited-accounts/
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/audited-accounts/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/publications/audited-accounts/)
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/audited-accounts/POST (from https://www.helpageindia.org/aboutus/publications/audited-accounts/)
+
+11:53:19	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1595
+
+11:53:19	Warning: 	File has moved from https://www.helpageindia.org/?p=1595 to https://www.helpageindia.org/aboutus/publications/fcra/
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/fcra/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/publications/fcra/)
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/fcra/POST (from https://www.helpageindia.org/aboutus/publications/fcra/)
+
+11:53:19	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1597
+
+11:53:19	Warning: 	File has moved from https://www.helpageindia.org/?p=1597 to https://www.helpageindia.org/aboutus/publications/newsletters/
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/newsletters/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/publications/newsletters/)
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/newsletters/POST (from https://www.helpageindia.org/aboutus/publications/newsletters/)
+
+11:53:19	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1599
+
+11:53:19	Warning: 	File has moved from https://www.helpageindia.org/?p=1599 to https://www.helpageindia.org/aboutus/publications/helpage-research-reports/
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/helpage-research-reports/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/publications/helpage-research-reports/)
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/helpage-research-reports/POST (from https://www.helpageindia.org/aboutus/publications/helpage-research-reports/)
+
+11:53:19	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1601
+
+11:53:19	Warning: 	File has moved from https://www.helpageindia.org/?p=1601 to https://www.helpageindia.org/aboutus/publications/policy-documents-pdf/
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/policy-documents-pdf/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/publications/policy-documents-pdf/)
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/policy-documents-pdf/POST (from https://www.helpageindia.org/aboutus/publications/policy-documents-pdf/)
+
+11:53:19	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1603
+
+11:53:19	Warning: 	File has moved from https://www.helpageindia.org/?p=1603 to https://www.helpageindia.org/aboutus/publications/other-reports-pdf/
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/other-reports-pdf/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aboutus/publications/other-reports-pdf/)
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aboutus/publications/other-reports-pdf/POST (from https://www.helpageindia.org/aboutus/publications/other-reports-pdf/)
+
+11:53:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.helpageindia.org/wp-content/themes/dreamsparks/pdf/GlobalAgewatchIndex13.pdf (from https://www.helpageindia.org/aboutus/publications/other-reports-pdf/)
+
+11:53:19	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=6109
+
+11:53:19	Warning: 	File has moved from https://www.helpageindia.org/?p=6109 to https://www.helpageindia.org/greetings-thankyou/
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/greetings-thankyou/IPledge4Eldercare.pdf (from https://www.helpageindia.org/greetings-thankyou/)
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/greetings-thankyou/POST (from https://www.helpageindia.org/greetings-thankyou/)
+
+11:53:19	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1839
+
+11:53:19	Warning: 	File has moved from https://www.helpageindia.org/?p=1839 to https://www.helpageindia.org/order-performa/
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/order-performa/IPledge4Eldercare.pdf (from https://www.helpageindia.org/order-performa/)
+
+11:53:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/order-performa/POST (from https://www.helpageindia.org/order-performa/)
+
+11:53:22	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1879
+
+11:53:22	Warning: 	File has moved from https://www.helpageindia.org/?p=1879 to https://www.helpageindia.org/elder-abuse/
+
+11:53:22	Error: 	"Not Found" (404) at link https://www.helpageindia.org/elder-abuse/IPledge4Eldercare.pdf (from https://www.helpageindia.org/elder-abuse/)
+
+11:53:22	Error: 	"Not Found" (404) at link https://www.helpageindia.org/elder-abuse/POST (from https://www.helpageindia.org/elder-abuse/)
+
+11:53:22	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1883
+
+11:53:22	Warning: 	File has moved from https://www.helpageindia.org/?p=1883 to https://www.helpageindia.org/bakri-devi/
+
+11:53:22	Error: 	"Not Found" (404) at link https://www.helpageindia.org/bakri-devi/IPledge4Eldercare.pdf (from https://www.helpageindia.org/bakri-devi/)
+
+11:53:22	Error: 	"Not Found" (404) at link https://www.helpageindia.org/bakri-devi/POST (from https://www.helpageindia.org/bakri-devi/)
+
+11:53:26	Error: 	"Not Found" (404) at link https://www.helpageindia.org/wp-content/uploads/2017/06/Mobile-Healthcare.jpg (from https://www.helpageindia.org/bakri-devi/)
+
+11:53:29	Error: 	"Not Found" (404) at link https://www.helpageindia.org/wp-content/uploads/2017/06/Physiocare.jpg (from https://www.helpageindia.org/bakri-devi/)
+
+11:53:37	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3367
+
+11:53:37	Warning: 	File has moved from https://www.helpageindia.org/?p=3367 to https://www.helpageindia.org/amazon-cares/
+
+11:53:37	Error: 	"Not Found" (404) at link https://www.helpageindia.org/amazon-cares/IPledge4Eldercare.pdf (from https://www.helpageindia.org/amazon-cares/)
+
+11:53:37	Error: 	"Not Found" (404) at link https://www.helpageindia.org/amazon-cares/POST (from https://www.helpageindia.org/amazon-cares/)
+
+11:53:37	Warning: 	Link https://www.helpageindia.org/author/haidmin/page/2/ not scanned (follow robots meta tag)
+
+11:53:38	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/haidmin/IPledge4Eldercare.pdf (from https://www.helpageindia.org/author/haidmin/)
+
+11:53:38	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/haidmin/POST (from https://www.helpageindia.org/author/haidmin/)
+
+11:53:38	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=5728
+
+11:53:38	Warning: 	File has moved from https://www.helpageindia.org/?p=5728 to https://www.helpageindia.org/longing-for-home/
+
+11:53:38	Error: 	"Not Found" (404) at link https://www.helpageindia.org/longing-for-home/IPledge4Eldercare.pdf (from https://www.helpageindia.org/longing-for-home/)
+
+11:53:38	Error: 	"Not Found" (404) at link https://www.helpageindia.org/longing-for-home/POST (from https://www.helpageindia.org/longing-for-home/)
+
+11:53:41	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3181
+
+11:53:41	Warning: 	File has moved from https://www.helpageindia.org/?p=3181 to https://www.helpageindia.org/financial-planning-for-senior-citizens/
+
+11:53:41	Error: 	"Not Found" (404) at link https://www.helpageindia.org/financial-planning-for-senior-citizens/IPledge4Eldercare.pdf (from https://www.helpageindia.org/financial-planning-for-senior-citizens/)
+
+11:53:41	Error: 	"Not Found" (404) at link https://www.helpageindia.org/financial-planning-for-senior-citizens/POST (from https://www.helpageindia.org/financial-planning-for-senior-citizens/)
+
+11:53:57	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2841
+
+11:53:57	Warning: 	File has moved from https://www.helpageindia.org/?p=2841 to https://www.helpageindia.org/social-stock-exchange-in-india/
+
+11:53:57	Error: 	"Not Found" (404) at link https://www.helpageindia.org/social-stock-exchange-in-india/IPledge4Eldercare.pdf (from https://www.helpageindia.org/social-stock-exchange-in-india/)
+
+11:53:57	Error: 	"Not Found" (404) at link https://www.helpageindia.org/social-stock-exchange-in-india/POST (from https://www.helpageindia.org/social-stock-exchange-in-india/)
+
+11:53:57	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2824
+
+11:53:57	Warning: 	File has moved from https://www.helpageindia.org/?p=2824 to https://www.helpageindia.org/budget-2019/
+
+11:53:57	Error: 	"Not Found" (404) at link https://www.helpageindia.org/budget-2019/IPledge4Eldercare.pdf (from https://www.helpageindia.org/budget-2019/)
+
+11:53:57	Error: 	"Not Found" (404) at link https://www.helpageindia.org/budget-2019/POST (from https://www.helpageindia.org/budget-2019/)
+
+11:53:57	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1960
+
+11:53:57	Warning: 	File has moved from https://www.helpageindia.org/?p=1960 to https://www.helpageindia.org/union-budget-2018-decoded-in-10-points-for-senior-citizens/
+
+11:53:57	Error: 	"Not Found" (404) at link https://www.helpageindia.org/union-budget-2018-decoded-in-10-points-for-senior-citizens/IPledge4Eldercare.pdf (from https://www.helpageindia.org/union-budget-2018-decoded-in-10-points-for-senior-citizens/)
+
+11:53:57	Error: 	"Not Found" (404) at link https://www.helpageindia.org/union-budget-2018-decoded-in-10-points-for-senior-citizens/POST (from https://www.helpageindia.org/union-budget-2018-decoded-in-10-points-for-senior-citizens/)
+
+11:53:57	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1696
+
+11:53:57	Warning: 	File has moved from https://www.helpageindia.org/?p=1696 to https://www.helpageindia.org/bank-facilities-for-senior-citizens-become-easier/
+
+11:53:57	Error: 	"Not Found" (404) at link https://www.helpageindia.org/bank-facilities-for-senior-citizens-become-easier/IPledge4Eldercare.pdf (from https://www.helpageindia.org/bank-facilities-for-senior-citizens-become-easier/)
+
+11:53:57	Error: 	"Not Found" (404) at link https://www.helpageindia.org/bank-facilities-for-senior-citizens-become-easier/POST (from https://www.helpageindia.org/bank-facilities-for-senior-citizens-become-easier/)
+
+11:53:57	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3072
+
+11:53:57	Warning: 	File has moved from https://www.helpageindia.org/?p=3072 to https://www.helpageindia.org/remembering-the-force-remembering-her/
+
+11:53:57	Error: 	"Not Found" (404) at link https://www.helpageindia.org/remembering-the-force-remembering-her/IPledge4Eldercare.pdf (from https://www.helpageindia.org/remembering-the-force-remembering-her/)
+
+11:53:57	Error: 	"Not Found" (404) at link https://www.helpageindia.org/remembering-the-force-remembering-her/POST (from https://www.helpageindia.org/remembering-the-force-remembering-her/)
+
+11:54:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.helpageindia.org/?p=1941 (from https://www.helpageindia.org/tips-for-helping-elderly-parents-age-happily-in-your-home/)
+
+11:54:01	Error: 	"Not Found" (404) at link https://www.helpageindia.org/tips-for-helping-elderly-parents-age-happily-in-your-home/IPledge4Eldercare.pdf (from https://www.helpageindia.org/tips-for-helping-elderly-parents-age-happily-in-your-home/)
+
+11:54:01	Error: 	"Not Found" (404) at link https://www.helpageindia.org/tips-for-helping-elderly-parents-age-happily-in-your-home/POST (from https://www.helpageindia.org/tips-for-helping-elderly-parents-age-happily-in-your-home/)
+
+11:54:01	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/jane-sandwood/IPledge4Eldercare.pdf (from https://www.helpageindia.org/author/jane-sandwood/)
+
+11:54:01	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/jane-sandwood/POST (from https://www.helpageindia.org/author/jane-sandwood/)
+
+11:54:01	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2668
+
+11:54:01	Warning: 	File has moved from https://www.helpageindia.org/?p=2668 to https://www.helpageindia.org/helpage-indias-khirweri-mhu-beneficiary-wins-the-coveted-nari-shakti-puraskar-from-honble-president-of-india/
+
+11:54:01	Error: 	"Not Found" (404) at link https://www.helpageindia.org/helpage-indias-khirweri-mhu-beneficiary-wins-the-coveted-nari-shakti-puraskar-from-honble-president-of-india/IPledge4Eldercare.pdf (from https://www.helpageindia.org/helpage-indias-khirweri-mhu-beneficiary-wins-the-coveted-nari-shakti-puraskar-from-honble-president-of-india/)
+
+11:54:01	Error: 	"Not Found" (404) at link https://www.helpageindia.org/helpage-indias-khirweri-mhu-beneficiary-wins-the-coveted-nari-shakti-puraskar-from-honble-president-of-india/POST (from https://www.helpageindia.org/helpage-indias-khirweri-mhu-beneficiary-wins-the-coveted-nari-shakti-puraskar-from-honble-president-of-india/)
+
+11:54:01	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2635
+
+11:54:01	Warning: 	File has moved from https://www.helpageindia.org/?p=2635 to https://www.helpageindia.org/age-does-not-protect-you-from-love-but-love-protects-you-from-age-jeanne-moreau/
+
+11:54:01	Error: 	"Not Found" (404) at link https://www.helpageindia.org/age-does-not-protect-you-from-love-but-love-protects-you-from-age-jeanne-moreau/IPledge4Eldercare.pdf (from https://www.helpageindia.org/age-does-not-protect-you-from-love-but-love-protects-you-from-age-jeanne-moreau/)
+
+11:54:01	Error: 	"Not Found" (404) at link https://www.helpageindia.org/age-does-not-protect-you-from-love-but-love-protects-you-from-age-jeanne-moreau/POST (from https://www.helpageindia.org/age-does-not-protect-you-from-love-but-love-protects-you-from-age-jeanne-moreau/)
+
+11:54:02	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2411
+
+11:54:02	Warning: 	File has moved from https://www.helpageindia.org/?p=2411 to https://www.helpageindia.org/a-good-conscience-is-a-continual-christmas-benjamin-franklin/
+
+11:54:02	Error: 	"Not Found" (404) at link https://www.helpageindia.org/a-good-conscience-is-a-continual-christmas-benjamin-franklin/IPledge4Eldercare.pdf (from https://www.helpageindia.org/a-good-conscience-is-a-continual-christmas-benjamin-franklin/)
+
+11:54:02	Error: 	"Not Found" (404) at link https://www.helpageindia.org/a-good-conscience-is-a-continual-christmas-benjamin-franklin/POST (from https://www.helpageindia.org/a-good-conscience-is-a-continual-christmas-benjamin-franklin/)
+
+11:54:02	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2107
+
+11:54:02	Warning: 	File has moved from https://www.helpageindia.org/?p=2107 to https://www.helpageindia.org/appa-and-me/
+
+11:54:02	Error: 	"Not Found" (404) at link https://www.helpageindia.org/appa-and-me/IPledge4Eldercare.pdf (from https://www.helpageindia.org/appa-and-me/)
+
+11:54:02	Error: 	"Not Found" (404) at link https://www.helpageindia.org/appa-and-me/POST (from https://www.helpageindia.org/appa-and-me/)
+
+11:54:11	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/amaya-philips/IPledge4Eldercare.pdf (from https://www.helpageindia.org/author/amaya-philips/)
+
+11:54:11	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/amaya-philips/POST (from https://www.helpageindia.org/author/amaya-philips/)
+
+11:54:11	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2092
+
+11:54:11	Warning: 	File has moved from https://www.helpageindia.org/?p=2092 to https://www.helpageindia.org/how-a-helpage-india-intern-used-instagram-stories-to-fight-elder-abuse/
+
+11:54:11	Error: 	"Not Found" (404) at link https://www.helpageindia.org/how-a-helpage-india-intern-used-instagram-stories-to-fight-elder-abuse/IPledge4Eldercare.pdf (from https://www.helpageindia.org/how-a-helpage-india-intern-used-instagram-stories-to-fight-elder-abuse/)
+
+11:54:11	Error: 	"Not Found" (404) at link https://www.helpageindia.org/how-a-helpage-india-intern-used-instagram-stories-to-fight-elder-abuse/POST (from https://www.helpageindia.org/how-a-helpage-india-intern-used-instagram-stories-to-fight-elder-abuse/)
+
+11:54:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/ankita-arora/IPledge4Eldercare.pdf (from https://www.helpageindia.org/author/ankita-arora/)
+
+11:54:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/ankita-arora/POST (from https://www.helpageindia.org/author/ankita-arora/)
+
+11:54:13	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1993
+
+11:54:13	Warning: 	File has moved from https://www.helpageindia.org/?p=1993 to https://www.helpageindia.org/7-rules-for-happiness-in-old-age/
+
+11:54:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/7-rules-for-happiness-in-old-age/IPledge4Eldercare.pdf (from https://www.helpageindia.org/7-rules-for-happiness-in-old-age/)
+
+11:54:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/7-rules-for-happiness-in-old-age/POST (from https://www.helpageindia.org/7-rules-for-happiness-in-old-age/)
+
+11:54:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/satish-chawla/IPledge4Eldercare.pdf (from https://www.helpageindia.org/author/satish-chawla/)
+
+11:54:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/satish-chawla/POST (from https://www.helpageindia.org/author/satish-chawla/)
+
+11:54:13	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1847
+
+11:54:13	Warning: 	File has moved from https://www.helpageindia.org/?p=1847 to https://www.helpageindia.org/rec-supports-helpage-to-build-shelter-home-for-abandoned-destitute-elders/
+
+11:54:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/rec-supports-helpage-to-build-shelter-home-for-abandoned-destitute-elders/IPledge4Eldercare.pdf (from https://www.helpageindia.org/rec-supports-helpage-to-build-shelter-home-for-abandoned-destitute-elders/)
+
+11:54:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/rec-supports-helpage-to-build-shelter-home-for-abandoned-destitute-elders/POST (from https://www.helpageindia.org/rec-supports-helpage-to-build-shelter-home-for-abandoned-destitute-elders/)
+
+11:54:13	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1386
+
+11:54:13	Warning: 	File has moved from https://www.helpageindia.org/?p=1386 to https://www.helpageindia.org/how-to-communicate-to-a-loved-one-about-dementia/
+
+11:54:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/how-to-communicate-to-a-loved-one-about-dementia/IPledge4Eldercare.pdf (from https://www.helpageindia.org/how-to-communicate-to-a-loved-one-about-dementia/)
+
+11:54:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/how-to-communicate-to-a-loved-one-about-dementia/POST (from https://www.helpageindia.org/how-to-communicate-to-a-loved-one-about-dementia/)
+
+11:54:13	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1356
+
+11:54:13	Warning: 	File has moved from https://www.helpageindia.org/?p=1356 to https://www.helpageindia.org/a-15-year-old-helpage-india-intern-shares-her-volunteering-experience/
+
+11:54:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/a-15-year-old-helpage-india-intern-shares-her-volunteering-experience/IPledge4Eldercare.pdf (from https://www.helpageindia.org/a-15-year-old-helpage-india-intern-shares-her-volunteering-experience/)
+
+11:54:13	Error: 	"Not Found" (404) at link https://www.helpageindia.org/a-15-year-old-helpage-india-intern-shares-her-volunteering-experience/POST (from https://www.helpageindia.org/a-15-year-old-helpage-india-intern-shares-her-volunteering-experience/)
+
+11:54:13	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=285
+
+11:54:13	Warning: 	File has moved from https://www.helpageindia.org/?p=285 to https://www.helpageindia.org/helpage-highlights-the-importance-of-the-hug-help-unite-generations-campaign/
+
+11:54:14	Error: 	"Not Found" (404) at link https://www.helpageindia.org/helpage-highlights-the-importance-of-the-hug-help-unite-generations-campaign/IPledge4Eldercare.pdf (from https://www.helpageindia.org/helpage-highlights-the-importance-of-the-hug-help-unite-generations-campaign/)
+
+11:54:14	Error: 	"Not Found" (404) at link https://www.helpageindia.org/helpage-highlights-the-importance-of-the-hug-help-unite-generations-campaign/POST (from https://www.helpageindia.org/helpage-highlights-the-importance-of-the-hug-help-unite-generations-campaign/)
+
+11:54:14	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1365
+
+11:54:14	Warning: 	File has moved from https://www.helpageindia.org/?p=1365 to https://www.helpageindia.org/impact-of-your-donations-assamfloods2017/
+
+11:54:14	Error: 	"Not Found" (404) at link https://www.helpageindia.org/impact-of-your-donations-assamfloods2017/IPledge4Eldercare.pdf (from https://www.helpageindia.org/impact-of-your-donations-assamfloods2017/)
+
+11:54:14	Error: 	"Not Found" (404) at link https://www.helpageindia.org/impact-of-your-donations-assamfloods2017/POST (from https://www.helpageindia.org/impact-of-your-donations-assamfloods2017/)
+
+11:54:14	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=289
+
+11:54:14	Warning: 	File has moved from https://www.helpageindia.org/?p=289 to https://www.helpageindia.org/agony-of-aged-a-personification-of-our-depleting-value-system/
+
+11:54:14	Error: 	"Not Found" (404) at link https://www.helpageindia.org/agony-of-aged-a-personification-of-our-depleting-value-system/IPledge4Eldercare.pdf (from https://www.helpageindia.org/agony-of-aged-a-personification-of-our-depleting-value-system/)
+
+11:54:14	Error: 	"Not Found" (404) at link https://www.helpageindia.org/agony-of-aged-a-personification-of-our-depleting-value-system/POST (from https://www.helpageindia.org/agony-of-aged-a-personification-of-our-depleting-value-system/)
+
+11:54:16	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=288
+
+11:54:16	Warning: 	File has moved from https://www.helpageindia.org/?p=288 to https://www.helpageindia.org/limca-book-of-records-recognizes-a-unique-badminton-team-of-seniors/
+
+11:54:16	Error: 	"Not Found" (404) at link https://www.helpageindia.org/limca-book-of-records-recognizes-a-unique-badminton-team-of-seniors/IPledge4Eldercare.pdf (from https://www.helpageindia.org/limca-book-of-records-recognizes-a-unique-badminton-team-of-seniors/)
+
+11:54:16	Error: 	"Not Found" (404) at link https://www.helpageindia.org/limca-book-of-records-recognizes-a-unique-badminton-team-of-seniors/POST (from https://www.helpageindia.org/limca-book-of-records-recognizes-a-unique-badminton-team-of-seniors/)
+
+11:54:16	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-work/rights-entitlements-programs/empowering-elder-lives-advantage-program (from https://www.helpageindia.org/limca-book-of-records-recognizes-a-unique-badminton-team-of-seniors/)
+
+11:54:16	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=287
+
+11:54:16	Warning: 	File has moved from https://www.helpageindia.org/?p=287 to https://www.helpageindia.org/adieu-kalam-sir-you-made-our-country-rise/
+
+11:54:16	Error: 	"Not Found" (404) at link https://www.helpageindia.org/adieu-kalam-sir-you-made-our-country-rise/IPledge4Eldercare.pdf (from https://www.helpageindia.org/adieu-kalam-sir-you-made-our-country-rise/)
+
+11:54:16	Error: 	"Not Found" (404) at link https://www.helpageindia.org/adieu-kalam-sir-you-made-our-country-rise/POST (from https://www.helpageindia.org/adieu-kalam-sir-you-made-our-country-rise/)
+
+11:54:16	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=286
+
+11:54:16	Warning: 	File has moved from https://www.helpageindia.org/?p=286 to https://www.helpageindia.org/conference-on-old-age-security-in-india/
+
+11:54:16	Error: 	"Not Found" (404) at link https://www.helpageindia.org/conference-on-old-age-security-in-india/IPledge4Eldercare.pdf (from https://www.helpageindia.org/conference-on-old-age-security-in-india/)
+
+11:54:16	Error: 	"Not Found" (404) at link https://www.helpageindia.org/conference-on-old-age-security-in-india/POST (from https://www.helpageindia.org/conference-on-old-age-security-in-india/)
+
+11:54:18	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=5678
+
+11:54:18	Warning: 	File has moved from https://www.helpageindia.org/?p=5678 to https://www.helpageindia.org/why-the-post-pandemic-retiree-is-choosing-freedom-over-family/
+
+11:54:18	Error: 	"Not Found" (404) at link https://www.helpageindia.org/why-the-post-pandemic-retiree-is-choosing-freedom-over-family/IPledge4Eldercare.pdf (from https://www.helpageindia.org/why-the-post-pandemic-retiree-is-choosing-freedom-over-family/)
+
+11:54:18	Error: 	"Not Found" (404) at link https://www.helpageindia.org/why-the-post-pandemic-retiree-is-choosing-freedom-over-family/POST (from https://www.helpageindia.org/why-the-post-pandemic-retiree-is-choosing-freedom-over-family/)
+
+11:54:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/mr-kd-bhatia/IPledge4Eldercare.pdf (from https://www.helpageindia.org/author/mr-kd-bhatia/)
+
+11:54:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/mr-kd-bhatia/POST (from https://www.helpageindia.org/author/mr-kd-bhatia/)
+
+11:54:19	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=5488
+
+11:54:19	Warning: 	File has moved from https://www.helpageindia.org/?p=5488 to https://www.helpageindia.org/aankhon-ka-tara-campaign-by-helpage-india-ceo/
+
+11:54:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aankhon-ka-tara-campaign-by-helpage-india-ceo/IPledge4Eldercare.pdf (from https://www.helpageindia.org/aankhon-ka-tara-campaign-by-helpage-india-ceo/)
+
+11:54:19	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aankhon-ka-tara-campaign-by-helpage-india-ceo/POST (from https://www.helpageindia.org/aankhon-ka-tara-campaign-by-helpage-india-ceo/)
+
+11:54:21	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=5082
+
+11:54:21	Warning: 	File has moved from https://www.helpageindia.org/?p=5082 to https://www.helpageindia.org/the-race-against-time/
+
+11:54:21	Error: 	"Not Found" (404) at link https://www.helpageindia.org/the-race-against-time/IPledge4Eldercare.pdf (from https://www.helpageindia.org/the-race-against-time/)
+
+11:54:21	Error: 	"Not Found" (404) at link https://www.helpageindia.org/the-race-against-time/POST (from https://www.helpageindia.org/the-race-against-time/)
+
+11:54:21	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=5006
+
+11:54:21	Warning: 	File has moved from https://www.helpageindia.org/?p=5006 to https://www.helpageindia.org/older-persons-and-union-budget-2022-present-needs-and-future-opportunities/
+
+11:54:21	Error: 	"Not Found" (404) at link https://www.helpageindia.org/older-persons-and-union-budget-2022-present-needs-and-future-opportunities/IPledge4Eldercare.pdf (from https://www.helpageindia.org/older-persons-and-union-budget-2022-present-needs-and-future-opportunities/)
+
+11:54:21	Error: 	"Not Found" (404) at link https://www.helpageindia.org/older-persons-and-union-budget-2022-present-needs-and-future-opportunities/POST (from https://www.helpageindia.org/older-persons-and-union-budget-2022-present-needs-and-future-opportunities/)
+
+11:54:22	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=4935
+
+11:54:22	Warning: 	File has moved from https://www.helpageindia.org/?p=4935 to https://www.helpageindia.org/india-smashes-hesitancy-100-crore-vaccinations/
+
+11:54:22	Error: 	"Not Found" (404) at link https://www.helpageindia.org/india-smashes-hesitancy-100-crore-vaccinations/IPledge4Eldercare.pdf (from https://www.helpageindia.org/india-smashes-hesitancy-100-crore-vaccinations/)
+
+11:54:22	Error: 	"Not Found" (404) at link https://www.helpageindia.org/india-smashes-hesitancy-100-crore-vaccinations/POST (from https://www.helpageindia.org/india-smashes-hesitancy-100-crore-vaccinations/)
+
+11:54:22	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2024/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2024/)
+
+11:54:22	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2024/POST (from https://www.helpageindia.org/2024/)
+
+11:54:22	Warning: 	Link https://www.helpageindia.org/2023/page/2/ not scanned (follow robots meta tag)
+
+11:54:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2023/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2023/)
+
+11:54:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2023/POST (from https://www.helpageindia.org/2023/)
+
+11:54:24	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=5720
+
+11:54:24	Warning: 	File has moved from https://www.helpageindia.org/?p=5720 to https://www.helpageindia.org/bringing-digital-independence-empowerment-to-senior-citizens/
+
+11:54:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/bringing-digital-independence-empowerment-to-senior-citizens/IPledge4Eldercare.pdf (from https://www.helpageindia.org/bringing-digital-independence-empowerment-to-senior-citizens/)
+
+11:54:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/bringing-digital-independence-empowerment-to-senior-citizens/POST (from https://www.helpageindia.org/bringing-digital-independence-empowerment-to-senior-citizens/)
+
+11:54:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2022/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2022/)
+
+11:54:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2022/POST (from https://www.helpageindia.org/2022/)
+
+11:54:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2021/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2021/)
+
+11:54:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2021/POST (from https://www.helpageindia.org/2021/)
+
+11:54:24	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=4585
+
+11:54:24	Warning: 	File has moved from https://www.helpageindia.org/?p=4585 to https://www.helpageindia.org/from-the-desk-of-a-home-confined-senior-citizen/
+
+11:54:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/from-the-desk-of-a-home-confined-senior-citizen/IPledge4Eldercare.pdf (from https://www.helpageindia.org/from-the-desk-of-a-home-confined-senior-citizen/)
+
+11:54:24	Error: 	"Not Found" (404) at link https://www.helpageindia.org/from-the-desk-of-a-home-confined-senior-citizen/POST (from https://www.helpageindia.org/from-the-desk-of-a-home-confined-senior-citizen/)
+
+11:54:30	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=4082
+
+11:54:30	Warning: 	File has moved from https://www.helpageindia.org/?p=4082 to https://www.helpageindia.org/grandparents-embodiment-of-kindness/
+
+11:54:30	Error: 	"Not Found" (404) at link https://www.helpageindia.org/grandparents-embodiment-of-kindness/IPledge4Eldercare.pdf (from https://www.helpageindia.org/grandparents-embodiment-of-kindness/)
+
+11:54:30	Error: 	"Not Found" (404) at link https://www.helpageindia.org/grandparents-embodiment-of-kindness/POST (from https://www.helpageindia.org/grandparents-embodiment-of-kindness/)
+
+11:54:32	Warning: 	Link https://www.helpageindia.org/2020/page/2/ not scanned (follow robots meta tag)
+
+11:54:34	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2020/)
+
+11:54:34	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2020/POST (from https://www.helpageindia.org/2020/)
+
+11:54:34	Warning: 	Link https://www.helpageindia.org/2020/page/3/ not scanned (follow robots meta tag)
+
+11:54:35	Warning: 	Link https://www.helpageindia.org/2020/page/7/ not scanned (follow robots meta tag)
+
+11:54:37	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=4050
+
+11:54:37	Warning: 	File has moved from https://www.helpageindia.org/?p=4050 to https://www.helpageindia.org/a-new-year-a-new-hope/
+
+11:54:37	Error: 	"Not Found" (404) at link https://www.helpageindia.org/a-new-year-a-new-hope/IPledge4Eldercare.pdf (from https://www.helpageindia.org/a-new-year-a-new-hope/)
+
+11:54:37	Error: 	"Not Found" (404) at link https://www.helpageindia.org/a-new-year-a-new-hope/POST (from https://www.helpageindia.org/a-new-year-a-new-hope/)
+
+11:54:38	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3923
+
+11:54:38	Warning: 	File has moved from https://www.helpageindia.org/?p=3923 to https://www.helpageindia.org/our-little-pujo/
+
+11:54:38	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-little-pujo/IPledge4Eldercare.pdf (from https://www.helpageindia.org/our-little-pujo/)
+
+11:54:38	Error: 	"Not Found" (404) at link https://www.helpageindia.org/our-little-pujo/POST (from https://www.helpageindia.org/our-little-pujo/)
+
+11:54:38	Error: 	"Not Found" (404) at link https://www.helpageindia.org/beta/wp-content/uploads/2020/10/Our-Little-Pujo.png (from https://www.helpageindia.org/our-little-pujo/)
+
+11:54:39	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3909
+
+11:54:39	Warning: 	File has moved from https://www.helpageindia.org/?p=3909 to https://www.helpageindia.org/bone-health-with-ageing/
+
+11:54:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/bone-health-with-ageing/IPledge4Eldercare.pdf (from https://www.helpageindia.org/bone-health-with-ageing/)
+
+11:54:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/bone-health-with-ageing/POST (from https://www.helpageindia.org/bone-health-with-ageing/)
+
+11:54:39	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3866
+
+11:54:39	Warning: 	File has moved from https://www.helpageindia.org/?p=3866 to https://www.helpageindia.org/positives-of-coronavirus-lockdowns-for-senior-citizens/
+
+11:54:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/positives-of-coronavirus-lockdowns-for-senior-citizens/IPledge4Eldercare.pdf (from https://www.helpageindia.org/positives-of-coronavirus-lockdowns-for-senior-citizens/)
+
+11:54:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/positives-of-coronavirus-lockdowns-for-senior-citizens/POST (from https://www.helpageindia.org/positives-of-coronavirus-lockdowns-for-senior-citizens/)
+
+11:54:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/beta/wp-content/uploads/2020/09/Vulnerable-to-covid.png (from https://www.helpageindia.org/positives-of-coronavirus-lockdowns-for-senior-citizens/)
+
+11:54:40	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3826
+
+11:54:40	Warning: 	File has moved from https://www.helpageindia.org/?p=3826 to https://www.helpageindia.org/supreme-court-order-significance-for-the-struggle-of-seniors-citizens-of-india/
+
+11:54:40	Error: 	"Not Found" (404) at link https://www.helpageindia.org/supreme-court-order-significance-for-the-struggle-of-seniors-citizens-of-india/IPledge4Eldercare.pdf (from https://www.helpageindia.org/supreme-court-order-significance-for-the-struggle-of-seniors-citizens-of-india/)
+
+11:54:40	Error: 	"Not Found" (404) at link https://www.helpageindia.org/supreme-court-order-significance-for-the-struggle-of-seniors-citizens-of-india/POST (from https://www.helpageindia.org/supreme-court-order-significance-for-the-struggle-of-seniors-citizens-of-india/)
+
+11:54:42	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3785
+
+11:54:42	Warning: 	File has moved from https://www.helpageindia.org/?p=3785 to https://www.helpageindia.org/bihar-floods-2020/
+
+11:54:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/bihar-floods-2020/IPledge4Eldercare.pdf (from https://www.helpageindia.org/bihar-floods-2020/)
+
+11:54:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/bihar-floods-2020/POST (from https://www.helpageindia.org/bihar-floods-2020/)
+
+11:54:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/beta/wp-content/uploads/2020/08/1.jpg (from https://www.helpageindia.org/bihar-floods-2020/)
+
+11:54:42	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3729
+
+11:54:42	Warning: 	File has moved from https://www.helpageindia.org/?p=3729 to https://www.helpageindia.org/ageing-and-covid-19-need-of-time/
+
+11:54:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/ageing-and-covid-19-need-of-time/IPledge4Eldercare.pdf (from https://www.helpageindia.org/ageing-and-covid-19-need-of-time/)
+
+11:54:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/ageing-and-covid-19-need-of-time/POST (from https://www.helpageindia.org/ageing-and-covid-19-need-of-time/)
+
+11:54:42	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3674
+
+11:54:42	Warning: 	File has moved from https://www.helpageindia.org/?p=3674 to https://www.helpageindia.org/when-help-is-just-a-call-away/
+
+11:54:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/when-help-is-just-a-call-away/IPledge4Eldercare.pdf (from https://www.helpageindia.org/when-help-is-just-a-call-away/)
+
+11:54:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/when-help-is-just-a-call-away/POST (from https://www.helpageindia.org/when-help-is-just-a-call-away/)
+
+11:54:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/beta/wp-content/uploads/2020/08/Helpline-HELPAGE-INDIA-1.jpg (from https://www.helpageindia.org/when-help-is-just-a-call-away/)
+
+11:54:42	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3653
+
+11:54:42	Warning: 	File has moved from https://www.helpageindia.org/?p=3653 to https://www.helpageindia.org/stress-the-most-dreaded-word/
+
+11:54:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/stress-the-most-dreaded-word/IPledge4Eldercare.pdf (from https://www.helpageindia.org/stress-the-most-dreaded-word/)
+
+11:54:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/stress-the-most-dreaded-word/POST (from https://www.helpageindia.org/stress-the-most-dreaded-word/)
+
+11:54:43	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3628
+
+11:54:43	Warning: 	File has moved from https://www.helpageindia.org/?p=3628 to https://www.helpageindia.org/impact-and-challenges-faced-by-elders-in-time-of-covid-19/
+
+11:54:43	Error: 	"Not Found" (404) at link https://www.helpageindia.org/impact-and-challenges-faced-by-elders-in-time-of-covid-19/IPledge4Eldercare.pdf (from https://www.helpageindia.org/impact-and-challenges-faced-by-elders-in-time-of-covid-19/)
+
+11:54:43	Error: 	"Not Found" (404) at link https://www.helpageindia.org/impact-and-challenges-faced-by-elders-in-time-of-covid-19/POST (from https://www.helpageindia.org/impact-and-challenges-faced-by-elders-in-time-of-covid-19/)
+
+11:54:46	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3618
+
+11:54:46	Warning: 	File has moved from https://www.helpageindia.org/?p=3618 to https://www.helpageindia.org/ten-simple-tools-of-living/
+
+11:54:46	Error: 	"Not Found" (404) at link https://www.helpageindia.org/ten-simple-tools-of-living/IPledge4Eldercare.pdf (from https://www.helpageindia.org/ten-simple-tools-of-living/)
+
+11:54:46	Error: 	"Not Found" (404) at link https://www.helpageindia.org/ten-simple-tools-of-living/POST (from https://www.helpageindia.org/ten-simple-tools-of-living/)
+
+11:54:46	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3568
+
+11:54:46	Warning: 	File has moved from https://www.helpageindia.org/?p=3568 to https://www.helpageindia.org/elder-vulnerabilities-and-sufferings-in-time-of-covid/
+
+11:54:46	Error: 	"Not Found" (404) at link https://www.helpageindia.org/elder-vulnerabilities-and-sufferings-in-time-of-covid/IPledge4Eldercare.pdf (from https://www.helpageindia.org/elder-vulnerabilities-and-sufferings-in-time-of-covid/)
+
+11:54:46	Error: 	"Not Found" (404) at link https://www.helpageindia.org/elder-vulnerabilities-and-sufferings-in-time-of-covid/POST (from https://www.helpageindia.org/elder-vulnerabilities-and-sufferings-in-time-of-covid/)
+
+11:54:46	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3501
+
+11:54:46	Warning: 	File has moved from https://www.helpageindia.org/?p=3501 to https://www.helpageindia.org/free-meals-for-survival/
+
+11:54:46	Error: 	"Not Found" (404) at link https://www.helpageindia.org/free-meals-for-survival/IPledge4Eldercare.pdf (from https://www.helpageindia.org/free-meals-for-survival/)
+
+11:54:46	Error: 	"Not Found" (404) at link https://www.helpageindia.org/free-meals-for-survival/POST (from https://www.helpageindia.org/free-meals-for-survival/)
+
+11:54:46	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3437
+
+11:54:46	Warning: 	File has moved from https://www.helpageindia.org/?p=3437 to https://www.helpageindia.org/3437-2/
+
+11:54:46	Error: 	"Not Found" (404) at link https://www.helpageindia.org/3437-2/IPledge4Eldercare.pdf (from https://www.helpageindia.org/3437-2/)
+
+11:54:46	Error: 	"Not Found" (404) at link https://www.helpageindia.org/3437-2/POST (from https://www.helpageindia.org/3437-2/)
+
+11:54:47	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3402
+
+11:54:47	Warning: 	File has moved from https://www.helpageindia.org/?p=3402 to https://www.helpageindia.org/international-labour-day/
+
+11:54:47	Error: 	"Not Found" (404) at link https://www.helpageindia.org/international-labour-day/IPledge4Eldercare.pdf (from https://www.helpageindia.org/international-labour-day/)
+
+11:54:47	Error: 	"Not Found" (404) at link https://www.helpageindia.org/international-labour-day/POST (from https://www.helpageindia.org/international-labour-day/)
+
+11:54:48	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3350
+
+11:54:48	Warning: 	File has moved from https://www.helpageindia.org/?p=3350 to https://www.helpageindia.org/plight-of-the-elderly-amidst-covid-19/
+
+11:54:48	Error: 	"Not Found" (404) at link https://www.helpageindia.org/plight-of-the-elderly-amidst-covid-19/IPledge4Eldercare.pdf (from https://www.helpageindia.org/plight-of-the-elderly-amidst-covid-19/)
+
+11:54:48	Error: 	"Not Found" (404) at link https://www.helpageindia.org/plight-of-the-elderly-amidst-covid-19/POST (from https://www.helpageindia.org/plight-of-the-elderly-amidst-covid-19/)
+
+11:54:49	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3345
+
+11:54:49	Warning: 	File has moved from https://www.helpageindia.org/?p=3345 to https://www.helpageindia.org/through-my-lenses/
+
+11:54:49	Error: 	"Not Found" (404) at link https://www.helpageindia.org/through-my-lenses/IPledge4Eldercare.pdf (from https://www.helpageindia.org/through-my-lenses/)
+
+11:54:49	Error: 	"Not Found" (404) at link https://www.helpageindia.org/through-my-lenses/POST (from https://www.helpageindia.org/through-my-lenses/)
+
+11:54:50	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3337
+
+11:54:50	Warning: 	File has moved from https://www.helpageindia.org/?p=3337 to https://www.helpageindia.org/jaldi-aao-khaane-ki-gaadi-aa-gayee-come-fast-the-food-distribution-vehicle-is-here/
+
+11:54:50	Error: 	"Not Found" (404) at link https://www.helpageindia.org/jaldi-aao-khaane-ki-gaadi-aa-gayee-come-fast-the-food-distribution-vehicle-is-here/IPledge4Eldercare.pdf (from https://www.helpageindia.org/jaldi-aao-khaane-ki-gaadi-aa-gayee-come-fast-the-food-distribution-vehicle-is-here/)
+
+11:54:50	Error: 	"Not Found" (404) at link https://www.helpageindia.org/jaldi-aao-khaane-ki-gaadi-aa-gayee-come-fast-the-food-distribution-vehicle-is-here/POST (from https://www.helpageindia.org/jaldi-aao-khaane-ki-gaadi-aa-gayee-come-fast-the-food-distribution-vehicle-is-here/)
+
+11:54:50	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3301
+
+11:54:50	Warning: 	File has moved from https://www.helpageindia.org/?p=3301 to https://www.helpageindia.org/coronavirus-covid-19-and-the-senior-citizens/
+
+11:54:50	Error: 	"Not Found" (404) at link https://www.helpageindia.org/coronavirus-covid-19-and-the-senior-citizens/IPledge4Eldercare.pdf (from https://www.helpageindia.org/coronavirus-covid-19-and-the-senior-citizens/)
+
+11:54:50	Error: 	"Not Found" (404) at link https://www.helpageindia.org/coronavirus-covid-19-and-the-senior-citizens/POST (from https://www.helpageindia.org/coronavirus-covid-19-and-the-senior-citizens/)
+
+11:54:54	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3298
+
+11:54:54	Warning: 	File has moved from https://www.helpageindia.org/?p=3298 to https://www.helpageindia.org/world-health-day/
+
+11:54:54	Error: 	"Not Found" (404) at link https://www.helpageindia.org/world-health-day/IPledge4Eldercare.pdf (from https://www.helpageindia.org/world-health-day/)
+
+11:54:54	Error: 	"Not Found" (404) at link https://www.helpageindia.org/world-health-day/POST (from https://www.helpageindia.org/world-health-day/)
+
+11:54:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3260
+
+11:54:55	Warning: 	File has moved from https://www.helpageindia.org/?p=3260 to https://www.helpageindia.org/ludo-to-the-rescue/
+
+11:54:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/ludo-to-the-rescue/IPledge4Eldercare.pdf (from https://www.helpageindia.org/ludo-to-the-rescue/)
+
+11:54:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/ludo-to-the-rescue/POST (from https://www.helpageindia.org/ludo-to-the-rescue/)
+
+11:54:56	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3249
+
+11:54:56	Warning: 	File has moved from https://www.helpageindia.org/?p=3249 to https://www.helpageindia.org/a-time-for-compassion/
+
+11:54:56	Error: 	"Not Found" (404) at link https://www.helpageindia.org/a-time-for-compassion/IPledge4Eldercare.pdf (from https://www.helpageindia.org/a-time-for-compassion/)
+
+11:54:56	Error: 	"Not Found" (404) at link https://www.helpageindia.org/a-time-for-compassion/POST (from https://www.helpageindia.org/a-time-for-compassion/)
+
+11:54:58	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3224
+
+11:54:58	Warning: 	File has moved from https://www.helpageindia.org/?p=3224 to https://www.helpageindia.org/national-lets-laugh-day/
+
+11:54:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/national-lets-laugh-day/IPledge4Eldercare.pdf (from https://www.helpageindia.org/national-lets-laugh-day/)
+
+11:54:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/national-lets-laugh-day/POST (from https://www.helpageindia.org/national-lets-laugh-day/)
+
+11:54:58	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3210
+
+11:54:58	Warning: 	File has moved from https://www.helpageindia.org/?p=3210 to https://www.helpageindia.org/time-for-extra-attention-and-care-for-elderly/
+
+11:54:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/time-for-extra-attention-and-care-for-elderly/IPledge4Eldercare.pdf (from https://www.helpageindia.org/time-for-extra-attention-and-care-for-elderly/)
+
+11:54:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/time-for-extra-attention-and-care-for-elderly/POST (from https://www.helpageindia.org/time-for-extra-attention-and-care-for-elderly/)
+
+11:54:58	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3201
+
+11:54:58	Warning: 	File has moved from https://www.helpageindia.org/?p=3201 to https://www.helpageindia.org/covid19-in-india/
+
+11:54:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/covid19-in-india/IPledge4Eldercare.pdf (from https://www.helpageindia.org/covid19-in-india/)
+
+11:54:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/covid19-in-india/POST (from https://www.helpageindia.org/covid19-in-india/)
+
+11:55:00	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3178
+
+11:55:00	Warning: 	File has moved from https://www.helpageindia.org/?p=3178 to https://www.helpageindia.org/elderly-empowerment-in-the-digital-age-2/
+
+11:55:00	Error: 	"Not Found" (404) at link https://www.helpageindia.org/elderly-empowerment-in-the-digital-age-2/IPledge4Eldercare.pdf (from https://www.helpageindia.org/elderly-empowerment-in-the-digital-age-2/)
+
+11:55:00	Error: 	"Not Found" (404) at link https://www.helpageindia.org/elderly-empowerment-in-the-digital-age-2/POST (from https://www.helpageindia.org/elderly-empowerment-in-the-digital-age-2/)
+
+11:55:05	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3167
+
+11:55:05	Warning: 	File has moved from https://www.helpageindia.org/?p=3167 to https://www.helpageindia.org/valentines-day-for-the-elderly/
+
+11:55:05	Error: 	"Not Found" (404) at link https://www.helpageindia.org/valentines-day-for-the-elderly/IPledge4Eldercare.pdf (from https://www.helpageindia.org/valentines-day-for-the-elderly/)
+
+11:55:05	Error: 	"Not Found" (404) at link https://www.helpageindia.org/valentines-day-for-the-elderly/POST (from https://www.helpageindia.org/valentines-day-for-the-elderly/)
+
+11:55:05	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3066
+
+11:55:05	Warning: 	File has moved from https://www.helpageindia.org/?p=3066 to https://www.helpageindia.org/world-cancer-day/
+
+11:55:05	Error: 	"Not Found" (404) at link https://www.helpageindia.org/world-cancer-day/IPledge4Eldercare.pdf (from https://www.helpageindia.org/world-cancer-day/)
+
+11:55:05	Error: 	"Not Found" (404) at link https://www.helpageindia.org/world-cancer-day/POST (from https://www.helpageindia.org/world-cancer-day/)
+
+11:55:05	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3036
+
+11:55:05	Warning: 	File has moved from https://www.helpageindia.org/?p=3036 to https://www.helpageindia.org/caring-and-serving-people-is-key-to-development/
+
+11:55:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.helpageindia.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.helpageindia.org%2Fcaring-and-serving-people-is-key-to-development%2F&format=xml (from https://www.helpageindia.org/caring-and-serving-people-is-key-to-development/)
+
+11:55:05	Error: 	"Not Found" (404) at link https://www.helpageindia.org/caring-and-serving-people-is-key-to-development/IPledge4Eldercare.pdf (from https://www.helpageindia.org/caring-and-serving-people-is-key-to-development/)
+
+11:55:05	Error: 	"Not Found" (404) at link https://www.helpageindia.org/caring-and-serving-people-is-key-to-development/POST (from https://www.helpageindia.org/caring-and-serving-people-is-key-to-development/)
+
+11:55:06	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/rusen-kumar/IPledge4Eldercare.pdf (from https://www.helpageindia.org/author/rusen-kumar/)
+
+11:55:06	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/rusen-kumar/POST (from https://www.helpageindia.org/author/rusen-kumar/)
+
+11:55:06	Warning: 	Link https://www.helpageindia.org/2019/page/2/ not scanned (follow robots meta tag)
+
+11:55:07	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2019/)
+
+11:55:07	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2019/POST (from https://www.helpageindia.org/2019/)
+
+11:55:07	Warning: 	Link https://www.helpageindia.org/2019/page/3/ not scanned (follow robots meta tag)
+
+11:55:08	Warning: 	Link https://www.helpageindia.org/2019/page/4/ not scanned (follow robots meta tag)
+
+11:55:09	Warning: 	Link https://www.helpageindia.org/2019/page/5/ not scanned (follow robots meta tag)
+
+11:55:10	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3023
+
+11:55:10	Warning: 	File has moved from https://www.helpageindia.org/?p=3023 to https://www.helpageindia.org/i-dont-have-a-disability/
+
+11:55:10	Error: 	"Not Found" (404) at link https://www.helpageindia.org/i-dont-have-a-disability/IPledge4Eldercare.pdf (from https://www.helpageindia.org/i-dont-have-a-disability/)
+
+11:55:10	Error: 	"Not Found" (404) at link https://www.helpageindia.org/i-dont-have-a-disability/POST (from https://www.helpageindia.org/i-dont-have-a-disability/)
+
+11:55:10	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2973
+
+11:55:10	Warning: 	File has moved from https://www.helpageindia.org/?p=2973 to https://www.helpageindia.org/spreading-smile-and-sunshine/
+
+11:55:10	Error: 	"Not Found" (404) at link https://www.helpageindia.org/spreading-smile-and-sunshine/IPledge4Eldercare.pdf (from https://www.helpageindia.org/spreading-smile-and-sunshine/)
+
+11:55:10	Error: 	"Not Found" (404) at link https://www.helpageindia.org/spreading-smile-and-sunshine/POST (from https://www.helpageindia.org/spreading-smile-and-sunshine/)
+
+11:55:12	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2911
+
+11:55:12	Warning: 	File has moved from https://www.helpageindia.org/?p=2911 to https://www.helpageindia.org/sabkopension-an-urgent-need/
+
+11:55:12	Error: 	"Not Found" (404) at link https://www.helpageindia.org/sabkopension-an-urgent-need/IPledge4Eldercare.pdf (from https://www.helpageindia.org/sabkopension-an-urgent-need/)
+
+11:55:12	Error: 	"Not Found" (404) at link https://www.helpageindia.org/sabkopension-an-urgent-need/POST (from https://www.helpageindia.org/sabkopension-an-urgent-need/)
+
+11:55:26	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2898
+
+11:55:26	Warning: 	File has moved from https://www.helpageindia.org/?p=2898 to https://www.helpageindia.org/age-is-only-a-number-keep-an-active-life/
+
+11:55:26	Error: 	"Not Found" (404) at link https://www.helpageindia.org/age-is-only-a-number-keep-an-active-life/IPledge4Eldercare.pdf (from https://www.helpageindia.org/age-is-only-a-number-keep-an-active-life/)
+
+11:55:26	Error: 	"Not Found" (404) at link https://www.helpageindia.org/age-is-only-a-number-keep-an-active-life/POST (from https://www.helpageindia.org/age-is-only-a-number-keep-an-active-life/)
+
+11:55:26	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2890
+
+11:55:26	Warning: 	File has moved from https://www.helpageindia.org/?p=2890 to https://www.helpageindia.org/not-all-wounds-are-visible/
+
+11:55:26	Error: 	"Not Found" (404) at link https://www.helpageindia.org/not-all-wounds-are-visible/IPledge4Eldercare.pdf (from https://www.helpageindia.org/not-all-wounds-are-visible/)
+
+11:55:26	Error: 	"Not Found" (404) at link https://www.helpageindia.org/not-all-wounds-are-visible/POST (from https://www.helpageindia.org/not-all-wounds-are-visible/)
+
+11:55:26	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2869
+
+11:55:26	Warning: 	File has moved from https://www.helpageindia.org/?p=2869 to https://www.helpageindia.org/is-caregiving-mainly-a-womans-job/
+
+11:55:26	Error: 	"Not Found" (404) at link https://www.helpageindia.org/is-caregiving-mainly-a-womans-job/IPledge4Eldercare.pdf (from https://www.helpageindia.org/is-caregiving-mainly-a-womans-job/)
+
+11:55:26	Error: 	"Not Found" (404) at link https://www.helpageindia.org/is-caregiving-mainly-a-womans-job/POST (from https://www.helpageindia.org/is-caregiving-mainly-a-womans-job/)
+
+11:55:26	Error: 	"Not Found" (404) at link https://www.helpageindia.org/beta/wp-content/uploads/2019/08/Untitled-2.png (from https://www.helpageindia.org/is-caregiving-mainly-a-womans-job/)
+
+11:55:30	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/silver-talkies/IPledge4Eldercare.pdf (from https://www.helpageindia.org/author/silver-talkies/)
+
+11:55:30	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/silver-talkies/POST (from https://www.helpageindia.org/author/silver-talkies/)
+
+11:55:31	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2850
+
+11:55:31	Warning: 	File has moved from https://www.helpageindia.org/?p=2850 to https://www.helpageindia.org/mental-health-for-seniors/
+
+11:55:31	Error: 	"Not Found" (404) at link https://www.helpageindia.org/mental-health-for-seniors/IPledge4Eldercare.pdf (from https://www.helpageindia.org/mental-health-for-seniors/)
+
+11:55:31	Error: 	"Not Found" (404) at link https://www.helpageindia.org/mental-health-for-seniors/POST (from https://www.helpageindia.org/mental-health-for-seniors/)
+
+11:55:34	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2782
+
+11:55:34	Warning: 	File has moved from https://www.helpageindia.org/?p=2782 to https://www.helpageindia.org/inhale-peace-love/
+
+11:55:34	Error: 	"Not Found" (404) at link https://www.helpageindia.org/inhale-peace-love/IPledge4Eldercare.pdf (from https://www.helpageindia.org/inhale-peace-love/)
+
+11:55:34	Error: 	"Not Found" (404) at link https://www.helpageindia.org/inhale-peace-love/POST (from https://www.helpageindia.org/inhale-peace-love/)
+
+11:55:34	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2753
+
+11:55:34	Warning: 	File has moved from https://www.helpageindia.org/?p=2753 to https://www.helpageindia.org/no-excuse-for-elder-abuse/
+
+11:55:34	Error: 	"Not Found" (404) at link https://www.helpageindia.org/no-excuse-for-elder-abuse/IPledge4Eldercare.pdf (from https://www.helpageindia.org/no-excuse-for-elder-abuse/)
+
+11:55:34	Error: 	"Not Found" (404) at link https://www.helpageindia.org/no-excuse-for-elder-abuse/POST (from https://www.helpageindia.org/no-excuse-for-elder-abuse/)
+
+11:55:39	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2714
+
+11:55:39	Warning: 	File has moved from https://www.helpageindia.org/?p=2714 to https://www.helpageindia.org/the-extraordinary-story-of-a-simple-man-from-uttarakhand/
+
+11:55:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/the-extraordinary-story-of-a-simple-man-from-uttarakhand/IPledge4Eldercare.pdf (from https://www.helpageindia.org/the-extraordinary-story-of-a-simple-man-from-uttarakhand/)
+
+11:55:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/the-extraordinary-story-of-a-simple-man-from-uttarakhand/POST (from https://www.helpageindia.org/the-extraordinary-story-of-a-simple-man-from-uttarakhand/)
+
+11:55:39	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2696
+
+11:55:39	Warning: 	File has moved from https://www.helpageindia.org/?p=2696 to https://www.helpageindia.org/the-only-way-to-change-is-to-vote-paul-wellstone/
+
+11:55:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/the-only-way-to-change-is-to-vote-paul-wellstone/IPledge4Eldercare.pdf (from https://www.helpageindia.org/the-only-way-to-change-is-to-vote-paul-wellstone/)
+
+11:55:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/the-only-way-to-change-is-to-vote-paul-wellstone/POST (from https://www.helpageindia.org/the-only-way-to-change-is-to-vote-paul-wellstone/)
+
+11:55:39	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2691
+
+11:55:39	Warning: 	File has moved from https://www.helpageindia.org/?p=2691 to https://www.helpageindia.org/every-senior-voter-matters-in-2019-election/
+
+11:55:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/every-senior-voter-matters-in-2019-election/IPledge4Eldercare.pdf (from https://www.helpageindia.org/every-senior-voter-matters-in-2019-election/)
+
+11:55:39	Error: 	"Not Found" (404) at link https://www.helpageindia.org/every-senior-voter-matters-in-2019-election/POST (from https://www.helpageindia.org/every-senior-voter-matters-in-2019-election/)
+
+11:55:40	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2681
+
+11:55:40	Warning: 	File has moved from https://www.helpageindia.org/?p=2681 to https://www.helpageindia.org/colors-of-empathy-and-compassion/
+
+11:55:40	Error: 	"Not Found" (404) at link https://www.helpageindia.org/colors-of-empathy-and-compassion/IPledge4Eldercare.pdf (from https://www.helpageindia.org/colors-of-empathy-and-compassion/)
+
+11:55:40	Error: 	"Not Found" (404) at link https://www.helpageindia.org/colors-of-empathy-and-compassion/POST (from https://www.helpageindia.org/colors-of-empathy-and-compassion/)
+
+11:55:40	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2660
+
+11:55:40	Warning: 	File has moved from https://www.helpageindia.org/?p=2660 to https://www.helpageindia.org/healthcare-is-a-right-not-a-privilege/
+
+11:55:40	Error: 	"Not Found" (404) at link https://www.helpageindia.org/healthcare-is-a-right-not-a-privilege/IPledge4Eldercare.pdf (from https://www.helpageindia.org/healthcare-is-a-right-not-a-privilege/)
+
+11:55:40	Error: 	"Not Found" (404) at link https://www.helpageindia.org/healthcare-is-a-right-not-a-privilege/POST (from https://www.helpageindia.org/healthcare-is-a-right-not-a-privilege/)
+
+11:55:40	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2650
+
+11:55:40	Warning: 	File has moved from https://www.helpageindia.org/?p=2650 to https://www.helpageindia.org/social-justice-for-the-elderly/
+
+11:55:40	Error: 	"Not Found" (404) at link https://www.helpageindia.org/social-justice-for-the-elderly/IPledge4Eldercare.pdf (from https://www.helpageindia.org/social-justice-for-the-elderly/)
+
+11:55:40	Error: 	"Not Found" (404) at link https://www.helpageindia.org/social-justice-for-the-elderly/POST (from https://www.helpageindia.org/social-justice-for-the-elderly/)
+
+11:55:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/raushan-tara-jaswal/IPledge4Eldercare.pdf (from https://www.helpageindia.org/author/raushan-tara-jaswal/)
+
+11:55:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/raushan-tara-jaswal/POST (from https://www.helpageindia.org/author/raushan-tara-jaswal/)
+
+11:55:42	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2619
+
+11:55:42	Warning: 	File has moved from https://www.helpageindia.org/?p=2619 to https://www.helpageindia.org/times-up-lets-innovate-for-our-senior-citizens/
+
+11:55:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/times-up-lets-innovate-for-our-senior-citizens/IPledge4Eldercare.pdf (from https://www.helpageindia.org/times-up-lets-innovate-for-our-senior-citizens/)
+
+11:55:42	Error: 	"Not Found" (404) at link https://www.helpageindia.org/times-up-lets-innovate-for-our-senior-citizens/POST (from https://www.helpageindia.org/times-up-lets-innovate-for-our-senior-citizens/)
+
+11:55:45	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/nisha-sampath/IPledge4Eldercare.pdf (from https://www.helpageindia.org/author/nisha-sampath/)
+
+11:55:45	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/nisha-sampath/POST (from https://www.helpageindia.org/author/nisha-sampath/)
+
+11:55:45	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2615
+
+11:55:45	Warning: 	File has moved from https://www.helpageindia.org/?p=2615 to https://www.helpageindia.org/literacy-is-a-bridge-from-misery-to-hope-kofi-annan/
+
+11:55:45	Error: 	"Not Found" (404) at link https://www.helpageindia.org/literacy-is-a-bridge-from-misery-to-hope-kofi-annan/IPledge4Eldercare.pdf (from https://www.helpageindia.org/literacy-is-a-bridge-from-misery-to-hope-kofi-annan/)
+
+11:55:45	Error: 	"Not Found" (404) at link https://www.helpageindia.org/literacy-is-a-bridge-from-misery-to-hope-kofi-annan/POST (from https://www.helpageindia.org/literacy-is-a-bridge-from-misery-to-hope-kofi-annan/)
+
+11:55:45	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2594
+
+11:55:45	Warning: 	File has moved from https://www.helpageindia.org/?p=2594 to https://www.helpageindia.org/no-act-of-kindness-no-matter-how-small-is-ever-wasted-aesop/
+
+11:55:45	Error: 	"Not Found" (404) at link https://www.helpageindia.org/no-act-of-kindness-no-matter-how-small-is-ever-wasted-aesop/IPledge4Eldercare.pdf (from https://www.helpageindia.org/no-act-of-kindness-no-matter-how-small-is-ever-wasted-aesop/)
+
+11:55:45	Error: 	"Not Found" (404) at link https://www.helpageindia.org/no-act-of-kindness-no-matter-how-small-is-ever-wasted-aesop/POST (from https://www.helpageindia.org/no-act-of-kindness-no-matter-how-small-is-ever-wasted-aesop/)
+
+11:55:48	Warning: 	Link https://www.helpageindia.org/2018/page/2/ not scanned (follow robots meta tag)
+
+11:55:49	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2018/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2018/)
+
+11:55:49	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2018/POST (from https://www.helpageindia.org/2018/)
+
+11:55:49	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2237
+
+11:55:49	Warning: 	File has moved from https://www.helpageindia.org/?p=2237 to https://www.helpageindia.org/kerala-afloat/
+
+11:55:49	Error: 	"Not Found" (404) at link https://www.helpageindia.org/kerala-afloat/IPledge4Eldercare.pdf (from https://www.helpageindia.org/kerala-afloat/)
+
+11:55:49	Error: 	"Not Found" (404) at link https://www.helpageindia.org/kerala-afloat/POST (from https://www.helpageindia.org/kerala-afloat/)
+
+11:55:49	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2081
+
+11:55:49	Warning: 	File has moved from https://www.helpageindia.org/?p=2081 to https://www.helpageindia.org/reality-check-our-elders-are-falling-apart-does-anyone-care/
+
+11:55:49	Error: 	"Not Found" (404) at link https://www.helpageindia.org/reality-check-our-elders-are-falling-apart-does-anyone-care/IPledge4Eldercare.pdf (from https://www.helpageindia.org/reality-check-our-elders-are-falling-apart-does-anyone-care/)
+
+11:55:49	Error: 	"Not Found" (404) at link https://www.helpageindia.org/reality-check-our-elders-are-falling-apart-does-anyone-care/POST (from https://www.helpageindia.org/reality-check-our-elders-are-falling-apart-does-anyone-care/)
+
+11:55:49	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2077
+
+11:55:49	Warning: 	File has moved from https://www.helpageindia.org/?p=2077 to https://www.helpageindia.org/abandoned-abused-elders-seek-shelter-in-a-hospital-ward-in-kochi/
+
+11:55:49	Error: 	"Not Found" (404) at link https://www.helpageindia.org/abandoned-abused-elders-seek-shelter-in-a-hospital-ward-in-kochi/IPledge4Eldercare.pdf (from https://www.helpageindia.org/abandoned-abused-elders-seek-shelter-in-a-hospital-ward-in-kochi/)
+
+11:55:49	Error: 	"Not Found" (404) at link https://www.helpageindia.org/abandoned-abused-elders-seek-shelter-in-a-hospital-ward-in-kochi/POST (from https://www.helpageindia.org/abandoned-abused-elders-seek-shelter-in-a-hospital-ward-in-kochi/)
+
+11:55:49	Warning: 	Link https://www.helpageindia.org/2017/page/2/ not scanned (follow robots meta tag)
+
+11:55:50	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2017/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2017/)
+
+11:55:50	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2017/POST (from https://www.helpageindia.org/2017/)
+
+11:55:50	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1698
+
+11:55:50	Warning: 	File has moved from https://www.helpageindia.org/?p=1698 to https://www.helpageindia.org/respite-care-a-solution-to-caregiver-stress-and-compassion-fatigue/
+
+11:55:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.helpageindia.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.helpageindia.org%2Frespite-care-a-solution-to-caregiver-stress-and-compassion-fatigue%2F&format=xml (from https://www.helpageindia.org/respite-care-a-solution-to-caregiver-stress-and-compassion-fatigue/)
+
+11:55:50	Error: 	"Not Found" (404) at link https://www.helpageindia.org/respite-care-a-solution-to-caregiver-stress-and-compassion-fatigue/IPledge4Eldercare.pdf (from https://www.helpageindia.org/respite-care-a-solution-to-caregiver-stress-and-compassion-fatigue/)
+
+11:55:50	Error: 	"Not Found" (404) at link https://www.helpageindia.org/respite-care-a-solution-to-caregiver-stress-and-compassion-fatigue/POST (from https://www.helpageindia.org/respite-care-a-solution-to-caregiver-stress-and-compassion-fatigue/)
+
+11:55:50	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1363
+
+11:55:50	Warning: 	File has moved from https://www.helpageindia.org/?p=1363 to https://www.helpageindia.org/filing-income-tax-returns-in-2017-becomes-a-taxing-process-for-elderly/
+
+11:55:50	Error: 	"Not Found" (404) at link https://www.helpageindia.org/filing-income-tax-returns-in-2017-becomes-a-taxing-process-for-elderly/IPledge4Eldercare.pdf (from https://www.helpageindia.org/filing-income-tax-returns-in-2017-becomes-a-taxing-process-for-elderly/)
+
+11:55:50	Error: 	"Not Found" (404) at link https://www.helpageindia.org/filing-income-tax-returns-in-2017-becomes-a-taxing-process-for-elderly/POST (from https://www.helpageindia.org/filing-income-tax-returns-in-2017-becomes-a-taxing-process-for-elderly/)
+
+11:55:50	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1359
+
+11:55:50	Warning: 	File has moved from https://www.helpageindia.org/?p=1359 to https://www.helpageindia.org/providing-happiness-and-laughter-to-isolated-senior-citizens-in-india/
+
+11:55:50	Error: 	"Not Found" (404) at link https://www.helpageindia.org/providing-happiness-and-laughter-to-isolated-senior-citizens-in-india/IPledge4Eldercare.pdf (from https://www.helpageindia.org/providing-happiness-and-laughter-to-isolated-senior-citizens-in-india/)
+
+11:55:50	Error: 	"Not Found" (404) at link https://www.helpageindia.org/providing-happiness-and-laughter-to-isolated-senior-citizens-in-india/POST (from https://www.helpageindia.org/providing-happiness-and-laughter-to-isolated-senior-citizens-in-india/)
+
+11:55:52	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2016/IPledge4Eldercare.pdf (from https://www.helpageindia.org/2016/)
+
+11:55:52	Error: 	"Not Found" (404) at link https://www.helpageindia.org/2016/POST (from https://www.helpageindia.org/2016/)
+
+11:55:52	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.helpageindia.org/ccavenue/ccavResponseHandler.php (from https://www.helpageindia.org/betheherotheydeserve/)
+
+11:55:52	Error: 	"Not Found" (404) at link https://www.helpageindia.org/uat/wp-content/themes/dreamsparks/assets/member/css/images/footer-bg.jpg (from https://www.helpageindia.org/uat/wp-content/themes/dreamsparks/assets/member/css/style.css)
+
+11:55:52	Error: 	"Not Found" (404) at link https://www.helpageindia.org/uat/wp-content/themes/dreamsparks/assets/member/css/images/donate-icon.png (from https://www.helpageindia.org/uat/wp-content/themes/dreamsparks/assets/member/css/style.css)
+
+11:55:52	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1254
+
+11:55:52	Warning: 	File has moved from https://www.helpageindia.org/?p=1254 to https://www.helpageindia.org/thank-you/
+
+11:55:52	Error: 	"Not Found" (404) at link https://www.helpageindia.org/thank-you/IPledge4Eldercare.pdf (from https://www.helpageindia.org/thank-you/)
+
+11:55:52	Error: 	"Not Found" (404) at link https://www.helpageindia.org/thank-you/POST (from https://www.helpageindia.org/thank-you/)
+
+11:55:52	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=5313
+
+11:55:52	Warning: 	File has moved from https://www.helpageindia.org/?p=5313 to https://www.helpageindia.org/volunteer-thank-you/
+
+11:55:52	Error: 	"Not Found" (404) at link https://www.helpageindia.org/volunteer-thank-you/IPledge4Eldercare.pdf (from https://www.helpageindia.org/volunteer-thank-you/)
+
+11:55:52	Error: 	"Not Found" (404) at link https://www.helpageindia.org/volunteer-thank-you/POST (from https://www.helpageindia.org/volunteer-thank-you/)
+
+11:55:52	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1864
+
+11:55:52	Warning: 	File has moved from https://www.helpageindia.org/?p=1864 to https://www.helpageindia.org/card-order/
+
+11:55:52	Error: 	"Not Found" (404) at link https://www.helpageindia.org/card-order/IPledge4Eldercare.pdf (from https://www.helpageindia.org/card-order/)
+
+11:55:52	Error: 	"Not Found" (404) at link https://www.helpageindia.org/card-order/POST (from https://www.helpageindia.org/card-order/)
+
+11:55:55	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1054
+
+11:55:55	Warning: 	File has moved from https://www.helpageindia.org/?p=1054 to https://www.helpageindia.org/mobile-healthcare-donate/
+
+11:55:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/mobile-healthcare-donate/IPledge4Eldercare.pdf (from https://www.helpageindia.org/mobile-healthcare-donate/)
+
+11:55:55	Error: 	"Not Found" (404) at link https://www.helpageindia.org/mobile-healthcare-donate/POST (from https://www.helpageindia.org/mobile-healthcare-donate/)
+
+11:55:58	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1068
+
+11:55:58	Warning: 	File has moved from https://www.helpageindia.org/?p=1068 to https://www.helpageindia.org/physiocare-donate/
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/physiocare-donate/IPledge4Eldercare.pdf (from https://www.helpageindia.org/physiocare-donate/)
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/physiocare-donate/POST (from https://www.helpageindia.org/physiocare-donate/)
+
+11:55:58	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1071
+
+11:55:58	Warning: 	File has moved from https://www.helpageindia.org/?p=1071 to https://www.helpageindia.org/cataract-donate/
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/cataract-donate/IPledge4Eldercare.pdf (from https://www.helpageindia.org/cataract-donate/)
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/cataract-donate/POST (from https://www.helpageindia.org/cataract-donate/)
+
+11:55:58	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1073
+
+11:55:58	Warning: 	File has moved from https://www.helpageindia.org/?p=1073 to https://www.helpageindia.org/cancer-donate/
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/cancer-donate/IPledge4Eldercare.pdf (from https://www.helpageindia.org/cancer-donate/)
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/cancer-donate/POST (from https://www.helpageindia.org/cancer-donate/)
+
+11:55:58	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1076
+
+11:55:58	Warning: 	File has moved from https://www.helpageindia.org/?p=1076 to https://www.helpageindia.org/support-donate/
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/support-donate/IPledge4Eldercare.pdf (from https://www.helpageindia.org/support-donate/)
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/support-donate/POST (from https://www.helpageindia.org/support-donate/)
+
+11:55:58	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3198
+
+11:55:58	Warning: 	File has moved from https://www.helpageindia.org/?p=3198 to https://www.helpageindia.org/festival-of-color/
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/festival-of-color/IPledge4Eldercare.pdf (from https://www.helpageindia.org/festival-of-color/)
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/festival-of-color/POST (from https://www.helpageindia.org/festival-of-color/)
+
+11:55:58	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1941
+
+11:55:58	Warning: 	File has moved from https://www.helpageindia.org/?p=1941 to https://www.helpageindia.org/tips-for-helping-elderly-parents-age-happily-in-your-home/
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/aankhonkatara/images/donate-icon.png (from https://www.helpageindia.org/aankhonkatara/)
+
+11:55:58	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=3275
+
+11:55:58	Warning: 	File has moved from https://www.helpageindia.org/?p=3275 to https://www.helpageindia.org/we-rise-by-lifting-others/
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/we-rise-by-lifting-others/IPledge4Eldercare.pdf (from https://www.helpageindia.org/we-rise-by-lifting-others/)
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/we-rise-by-lifting-others/POST (from https://www.helpageindia.org/we-rise-by-lifting-others/)
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/mathew-cherian/IPledge4Eldercare.pdf (from https://www.helpageindia.org/author/mathew-cherian/)
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/author/mathew-cherian/POST (from https://www.helpageindia.org/author/mathew-cherian/)
+
+11:55:58	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=1868
+
+11:55:58	Warning: 	File has moved from https://www.helpageindia.org/?p=1868 to https://www.helpageindia.org/order-details/
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/order-details/IPledge4Eldercare.pdf (from https://www.helpageindia.org/order-details/)
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/order-details/POST (from https://www.helpageindia.org/order-details/)
+
+11:55:58	Warning: 	Moved Permanently for https://www.helpageindia.org/?p=2623
+
+11:55:58	Warning: 	File has moved from https://www.helpageindia.org/?p=2623 to https://www.helpageindia.org/monthly-donation/
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/monthly-donation/IPledge4Eldercare.pdf (from https://www.helpageindia.org/monthly-donation/)
+
+11:55:58	Error: 	"Not Found" (404) at link https://www.helpageindia.org/monthly-donation/POST (from https://www.helpageindia.org/monthly-donation/)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 minutes 11 seconds : 2510 links scanned, 1776 files written (634003508 bytes overall) [672954166 bytes received at 505600 bytes/sec], 101760931 bytes transferred using HTTP compression in 750 files, ratio 21%, 6.2 requests per connection
+
+(554 errors, 381 warnings, 0 messages)
+

@@ -1,0 +1,319 @@
+#regForm {}
+.tabbox {
+	display: none;
+}
+.button-fox-kl #prevBtn {
+	background-color: #000;
+}
+.step {
+	height: 10px;
+	width: 10px;
+	margin: 0 2px;
+	background-color: #bbbbbb;
+	border: none;
+	border-radius: 50%;
+	display: inline-block;
+}
+.step.active {
+	opacity: 1;
+}
+.step.finish {
+	background-image: linear-gradient(#E4324A ,#BB1D67)
+}
+.fob-box-kl {
+	text-align: left;
+	font-size: 15px;
+}
+.fob-box-kl label {
+	text-align: left;
+	font-size: 15px;
+	font-weight: 600;
+	padding-bottom: 8px;
+}
+
+.fob-box-kl .form-control {
+	text-align: left;
+	font-size: 14px;
+	font-weight: 500;
+	 
+}
+
+.fob-box-kl #mina {
+	text-align: left;
+	font-size: 11px;
+	margin-bottom: 20px;
+}
+.overwithfl-box {
+	/* overflow: auto;
+	height: 300px; */
+	padding: 17px;
+}
+.button-fox-kl button {
+	width: auto !important;
+	color: #196ae5;
+	font-size: 20px;
+	text-align: center !important;
+}
+/* COLUMNS */
+.col {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	margin: 6px;
+}
+.col:first-of-type {
+	margin-left: 0;
+}
+.formtabs .plan input {
+	display: none;
+}
+.formtabs .plan {
+	display: flex;
+	width: 100%;
+}
+.formtabs label {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 18px;
+	padding: 10px;
+	text-align: center;
+	cursor: pointer;
+	background: #fff;
+	border: 1px solid #ccc;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	border-radius: 15px;
+	box-shadow: 5px 5px 5px #00000029;
+	font-weight: 600;
+}
+.formtabs .plan input:checked + label {
+	border: 1px solid #333;
+	background-image: linear-gradient(#E4324A ,#BB1D67);
+	color: #fff;
+	font-weight: 600;
+}
+.formtabs .plan input:checked + label:after {
+	content: "\2713";
+	width: 20px;
+	color: #000;
+	font-size: 14px;
+	height: 20px;
+	line-height: 20px;
+	border-radius: 100%;
+	border: 1px solid #fff;
+	background-color: #45A4DB;
+	z-index: 999;
+	position: absolute;
+	top: -10px;
+	right: 0px;
+}
+.onetime {
+	width: 100%;
+	background: #389057;
+	color: #fff;
+	text-align: center;
+	font-weight: 600;
+	font-size: 22px;
+	padding: 15px;
+	border-radius: 15px;
+}
+.onetime span {
+	display: block;
+	width: 100%;
+	text-align: center;
+	font-size: 15px;
+	padding: 15px;
+	border-radius: 15px;
+}
+/*
+.card {    border-radius: 10px !important;    margin-top: 60px;    margin-bottom: 60px}*/
+.form-card {	margin-left: 20px;	margin-right: 20px}
+.form-card input, 
+.form-card textarea {
+	padding: 10px 15px 5px 15px;
+	border: none;
+	border: 1px solid lightgrey;
+	border-radius: 6px;
+	margin-bottom: 25px;
+	margin-top: 2px;
+	width: 100%;
+	box-sizing: border-box;
+	font-family: arial;
+	color: #2C3E50;
+	font-size: 15px;
+	letter-spacing: 1px;
+	font-weight: 500;
+}
+.form-card input:focus, 
+.form-card textarea:focus {
+	-moz-box-shadow: 0px 0px 0px 1.5px skyblue !important;
+	-webkit-box-shadow: 0px 0px 0px 1.5px skyblue !important;
+	box-shadow: 0px 0px 0px 1.5px skyblue !important;
+	font-weight: bold;
+	border: 1px solid #304FFE;
+	outline-width: 0;
+	font-weight: 500;
+}
+.form-card .input-group {
+	position: relative;
+	width: 100%;
+	overflow: hidden
+}
+.form-card .input-group input {
+	position: relative;
+	height: 80px;
+	margin-left: 1px;
+	margin-right: 1px;
+	border-radius: 6px;
+	padding-top: 30px;
+	padding-left: 25px
+}
+.form-card .form-group label {
+	font-size: 15px;
+	color: gray;
+	text-align: left !important;
+	font-weight: 600;
+}
+.form-card input:focus + label {
+	color: #304FFE
+}
+.form-card .btn-pay {
+	background-color: #304FFE;
+	height: 60px;
+	color: #ffffff !important;
+	font-weight: bold
+}
+.form-card .btn-pay:hover {
+	background-color: #3F51B5
+}
+.form-card .fit-image {
+	width: 100%;
+	object-fit: cover;
+}
+.form-card img {
+	border-radius: 5px
+}
+.form-card .radio-group {
+	position: relative;
+	margin-bottom: 25px
+}
+.form-card .radio {
+	display: inline-block;
+	border-radius: 6px;
+	box-sizing: border-box;
+	border: 2px solid lightgrey;
+	cursor: pointer;
+	margin: 12px 25px 12px 0px
+}
+.form-card .radio:hover {
+	box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.2)
+}
+.form-card .radio.selected {
+	box-shadow: 0px 0px 0px 1px rgba(0, 0, 155, 0.4);
+	border: 2px solid blue
+}
+.form-card .label-radio {
+	font-weight: bold;
+	color: #000000
+}
+
+
+
+
+
+
+.form-card22 {	margin-left:10px;	margin-right:10px}
+.form-card22 input, 
+.form-card22 textarea {	padding: 10px 15px 5px 15px;	border: none;	border: 1px solid lightgrey;	border-radius: 6px;
+	margin-bottom: 25px;	margin-top: 6px; 	box-sizing: border-box;	font-family: arial;	color: #2C3E50;
+	font-size: 15px;	letter-spacing: 1px;	font-weight: 500;}
+.form-card22 input:focus, 
+.form-card22 textarea:focus {
+	-moz-box-shadow: 0px 0px 0px 1.5px skyblue !important;
+	-webkit-box-shadow: 0px 0px 0px 1.5px skyblue !important;
+	box-shadow: 0px 0px 0px 1.5px skyblue !important;
+	font-weight: bold;
+	border: 1px solid #304FFE;
+	outline-width: 0; 
+}
+
+.sp-gray { font-size: 11px; color: #000; display: block; line-height: 14px; font-weight: 400;}
+
+
+.form-card22 .input-group {	position: relative;	width: 100%;	overflow: hidden}
+.form-card22 .input-group input {	position: relative;	height: 80px;	margin-left: 1px;	margin-right: 1px;	border-radius: 6px;	padding-top: 30px;
+	padding-left: 25px}
+
+.form-card22 .form-group label {	 font-size: 15px;	color: gray;	text-align: left !important;	font-weight: 600;}
+
+.form-card22 .form-check-label {    margin-bottom: 0;    display: block;}
+
+
+.form-card22 input:focus + label {
+	color: #304FFE
+}
+.form-card22 .btn-pay {
+	background-color: #304FFE;
+	height: 60px;
+	color: #ffffff !important;
+	font-weight: bold
+}
+.form-card22 .btn-pay:hover {
+	background-color: #3F51B5
+}
+.form-card22 .fit-image {
+	width: 100%;
+	object-fit: cover;
+}
+.form-card22 img {
+	border-radius: 0px
+}
+.form-card22 .radio-group {
+	position: relative;
+	margin-bottom: 10px;
+}
+.form-card22 .radio {
+	display: inline-block;
+	border-radius: 6px;
+	box-sizing: border-box;
+	border: 2px solid lightgrey;
+	cursor: pointer;
+	margin: 12px 25px 12px 0px
+}
+.form-card22 .radio:hover {
+	box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.2)
+}
+.form-card22 .radio.selected {
+	box-shadow: 0px 0px 0px 1px rgba(0, 0, 155, 0.4);
+	border: 2px solid blue
+}
+.form-card22 .label-radio {
+	font-weight: bold;
+	color: #000000
+}
+
+
+
+
+
+@media only screen and (max-width: 560px) {
+	
+	
+	.col {	display: block;	 margin: 0px; padding-bottom: 5px;}
+    
+	.formtabs .plan {	display: block !important;	width: 100%;   }
+	.formtabs label {	display: block !important;	width: 100%; margin-bottom: 14px;   }
+	
+	
+  
+	
+}
+
+
+
+
+
+
+

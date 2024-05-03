@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.helpageindia.org	TRUE	/	FALSE	1999999999	PHPSESSID	val7u6859s5vjnf0ukrvvnv4gu
+www.helpageindia.org	TRUE	/	FALSE	1999999999	page	deleted
+
